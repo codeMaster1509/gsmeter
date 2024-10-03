@@ -9908,19 +9908,49 @@
                 })]
             })
         };
-        const Hr = function(e) {
-            let {
-                children: t
-            } = e;
+        // const Hr = function(e) {
+        //     let {
+        //         children: t
+        //     } = e;
+        //     return (0, Ne.jsxs)("div", {
+        //         className: "points-flex",
+        //         children: [(0, Ne.jsx)("i", {
+        //             className: "uil uil-check green"
+        //         }), (0, Ne.jsx)("div", {
+        //             children: t
+        //         })]
+        //     })
+        // };
+        const Hr = function(t) {
+            const [n, r] = (0, e.useState)(!1);
             return (0, Ne.jsxs)("div", {
-                className: "points-flex",
-                children: [(0, Ne.jsx)("i", {
-                    className: "uil uil-check green"
-                }), (0, Ne.jsx)("div", {
-                    children: t
-                })]
-            })
+                children: [
+                    (0, Ne.jsx)("div", {
+                        className: "accordian--main",
+                        onClick: () => r(e => !e),
+                        children: (0, Ne.jsxs)("div", {
+                            className: "points-flex",
+                            children: [
+                                (0, Ne.jsx)("i", {
+                                    className: "uil uil-check green"
+                                }), 
+                                (0, Ne.jsx)("div", {
+                                    children: t.children
+                                })
+                            ]
+                        })
+                    }), 
+                    (0, Ne.jsx)("div", {
+                        className: "accordian--reply",
+                        style: {
+                            display: n ? "block" : "none"
+                        },
+                        children: t.reply ? t.reply : "Completed"
+                    })
+                ]
+            });
         };
+        
         const Wr = function(t) {
             const [n, r] = (0, e.useState)(!1);
             return (0, Ne.jsxs)("div", {
