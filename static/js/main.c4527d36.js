@@ -10655,6 +10655,7 @@
                     children: "Policies for Academics "
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Hr, {
+                        reply:"The retagging window was increased for students in collaboration with GSAA UG. ",
                         children: "Increasing the windows given for retagging of the courses for MTechs students before placement season."
                     }), (0, Ne.jsx)(Ur, {
                         reply: "The policy was drafted in the previous tenure. Follow-up is yet to be done.",
@@ -10688,7 +10689,7 @@
                     children: "Mental Health "
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Hr, {
-                        // reply: "Immediate opportunities are posted on webmail. Documentation of recurring funding opportunities will be collected. ",
+                        reply: "Mentees have been alloted and groups have been formed. ",
                         children: "Introducing 1 to 1 mentorship programme foreign students."
                     })]
                 }), (0, Ne.jsx)(Ar, {
