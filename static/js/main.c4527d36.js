@@ -10549,106 +10549,152 @@
                     imgsrc: "/gsaaPg.jpg",
                     por: "General Secretary Academic Affairs PG",
                     chartsrc: "",
-                    completed: 26.3,
-                    notstarted: 31.6,
-                    Ongoing: 42.1,
+                    completed: 6.7,
+                    notstarted: 73.3,
+                    Ongoing: 20.0,
                     unclear: 0
                 }), (0, Ne.jsx)(Br, {}), (0, Ne.jsx)(Ar, {
-                    children: "New Initiatives"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Ur, {
-                        reply: "Could not be executed due to a lack of time and resources.",
-                        children: "To organize a student-driven conclave as an annual PG-level research event with display and felicitation of exemplary work done by our PG community."
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "Projects were not floated but already completed Masters and PhD projects were showcased Tech RnD Expo",
-                        children: "To float mini-research projects throughout the years to help students enhance their employability."
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "A session for this was conducted in the autumn semester but collaboration with nation wide library schemes was not executed",
-                        children: "To facilitate students with various journals, books, and other library resources by pushing for collaboration of IITB Central Library with nationwide library schemes."
-                    })]
-                }), (0, Ne.jsx)(Ar, {
-                    children: "Skill Development & Career Opportunities"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Ur, {
-                        reply: "Video series wasn't executed, instead PGAC conducted placement experience series (mentioned in off-manifesto initiatives).",
-                        children: "To create a video series featuring placed students sharing their placement experiences, to aid the upcoming PG batches in preparing for pre-placement tests and interviews."
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "To conduct experience series of semester-exchange students, to facilitate the prospective students in their planning."
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "Was conducted for some departments but not in all. ",
-                        children: "To enhance support to incoming students by conducting department-specific preparatory sessions that help them navigate their coursework easily."
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "To revitalize the Events subcommittee of the PGAC and equip them to conduct informative and engaging sessions that demonstrate career prospects and essential skills across domains."
-                    })]
-                }), (0, Ne.jsx)(Ar, {
-                    children: "Policy"
+                    children: "SKILL DEVELOPMENT"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "A survey was conducted to gauge student opinions on the issue; a policy has been drafted and the council is in touch with the administration to get\xa0it\xa0enforced.",
-                        children: "Ideate to minimize the average duration of the PhD in the institute through the creation of the institute-wide policy in cooperation with the administration and faculty."
+                        reply: "The first of the events is planned to take place in the coming week. ",
+                        children: "Organize a set of workshops on management and soft skills for PG students. "
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Planned for later in the tenure as the council has to reach out to relevant stakeholders.",
+                        children: "Propose the addition of training videos for SAIF or DRONA."
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "The policy has been enforced in the chemical department. The council is pushing for the policy to be implemented on an institute basis.",
-                        children: "To make a policy for documentation of the TA work completed by students to prevent overburdening and ensure fair distribution of responsibilities."
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "The council has proposed the policy to the administration and it is yet to be discussed and passed through the Post Graduate Programmes Committee (PGPC).",
-                        children: "To streamline the process of conference funding for the master's students and propose changes to motivate them to showcase their rigor in research."
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "To review and suggest increasing the caps on daily allowances - food, travel, accommodation - for official travel within the country based on the city's tier."
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "The policy has been ideated and discussed with the administratiion but is yet to be implemented.",
-                        children: "To outstretch the Institute Gold and Silver Medals for all PG programs along with UG programs."
+                        reply: "Student acceleration programs that are skill development sessions are planned to be organised later in the tenure.",
+                        children: "Organising placement related skill development workshops for PG students."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Spoken to Dean RnD regarding this initiative.",
+                        children: "Pushing for signing MOUs with online learning platform for getting discounted or free self-paced courses."
                     })]
                 }), (0, Ne.jsx)(Ar, {
-                    children: "RefoRIN"
+                    children: "ACADEMICS/R&D"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Ur, {
-                        reply: "Could not be executed due to a lack of time and resources.",
-                        children: 'To organize events under the name of "Researching for Resilient India (RefoRIN)\u201d inspiring the development and commercialization of indigenous products to reduce dependence on foreign countries for research and development.'
-                    }), (0, Ne.jsx)(Hr, {
-                        reply: "",
-                        children: "To follow up on the commencement of ResIEx - Research Information Exchange Portal which would include the database of the labs, equipment & facilities, lab people and theses available at the IIT Bombay campus."
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "The council faced time and resource contraints when approaching industry.",
-                        children: 'To organize an exposition to showcase student talents that are working on equipment/materials, otherwise mainly sourced from foreign industries, under the name of "Aatmanirbhar Bharat EXPO". It would include industry talks and/or workshops.'
-                    })]
-                }), (0, Ne.jsx)(Ar, {
-                    children: "Teachers of Tomorrow"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
-                        reply: "1 event was conducted in July but executing further events was a problem due to lack of availability of professors and presence of other institute events (like fests, placements etc.) during the other parts of the tenure.",
-                        children: 'To organize a set of events aimed at honing the teaching skills of prospective professors through a series of sessions and workshops, under the banner of "Teachers of Tomorrow".'
+                        reply: "Currently, the library gives access to papers when individual requests are made; however, open access for all students is still in progress.",
+                        children: "Propose the inclusion of more journals for the access to researchers."
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "1 event was conducted in July but executing further events was a problem due to lack of availability of professors and presence of other institute events (like fests, placements etc.) during the other parts of the tenure.",
-                        children: "TOT, IITB would cover events on Presentation skills, Scientific storytelling, Panel discussions, and healthy communication of science to the masses."
+                        reply: "International conference portal made online. Others grievances can usually be addressed on a case-to-case basis.",
+                        children: "Ensure procedural documentation of common academic related grievances in administration."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Changing the curriculum change requires multiple stakeholder involvement and will take time.",
+                        children: "Push for proposing the inclusion of a mandatory “Al in research” course in MTech & MSc curriculum review."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Hard to pursue on a development level for every department.",
+                        children: "Push for department level MOUs with local government colleges to resolve the difficulty and uncertainties faced by PMRF students to fulfil external TA requirements."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Not started yet.",
+                        children: "Proposing the addition of specialisation in PhD Degree depending on the bucketed list of subjects done by the students."
                     })]
                 }), (0, Ne.jsx)(Ar, {
-                    children: "Social Media Outreach"
+                    children: "Research Conclave"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply: "Similar events have been planned for Techconnect. ",
+                        children: "To introduce a Research Tank to foster the collaboration between industry and academia."
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "The handbook is the first step to a journal; work on it has started. Will happen based on TechConnect. ",
+                        children: "Aim to start an IITB Research Journal as similar to MIT Press."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Wanted to do a model based competition. Not started yet.",
+                        children: "To Introduce software and Hardware based research hackathons similar to Smart India Hackathons."
+                    })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: "Placements/Internships"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply: "Not started yet.",
+                        children: "Launch a video series on PGAC YouTube channel to provide placement/Internship guidance by already placed students and alumnus. "
+                    })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: "Cross-Department Knowledge Transfer"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply: "Not started yet.",
+                        children: "To follow-up on ReslEx portal (research information exchange portal) that will facilitate inter and intra departmental research facility information to completion and to newly include database of attended conferences campus wide."
+                    })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: "Policies for Funding"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply: "Immediate opportunities are posted on webmail. Documentation of recurring funding opportunities will be collected. ",
+                        children: "To document the funding opportunities with regards to the conferences for all PG students."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Has been reported to Dean AP and is currently done on a case-to-case basis.",
+                        children: "Propose a policy for continuation of stipend during his/her leave if it exceeds 30 days/ annum in case of mishappening."
+                    })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: "Policies for Academics "
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Hr, {
-                        children: "To improve social media outreach, promote PGAC's initiatives and work towards building stronger connections with the PG student community."
+                        children: "Increasing the windows given for retagging of the courses for MTechs students before placement season."
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "The reach of PGAC's social media handles was increased significantly but video form content wasn't executed by the council.",
-                        children: "To promote PGAC's events and initiatives consistently and efficiently across all social media platforms using innovative methods like short-form video content to provide timely updates."
+                        reply: "The policy was drafted in the previous tenure. Follow-up is yet to be done.",
+                        children: "Follow-up the policy on APS restructuring in order to reduce the duration of PhD."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Not started yet ",
+                        children: "Pushing for updating of departmental websites by including research scholars’ profiles and adding equipments and instruments details."
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "The proposal has been followed up with the Senate. ",
+                        children: "Follow-up on the ongoing policy for direct PhD students for obtaining an additional master’s degree."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "It does not fall directly under the purview of the council, but it can be pushed for with the help of DGSecs. ",
+                        children: "Pushing for the updating of the Department Constitution."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "HoD's let students to know the list of courses allowed every semester.",
+                        children: "Follow-up on pre-approval of NPTEL courses for each academic unit every semester."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Currently, IRCC ensures this happens for the required students however the council will try to push for a policy.",
+                        children: "Proposing a policy to ensure the continuity of the admissible stipend of TAP students afler completion/Termination of the project."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "The feasibility of the point has been checked by the council and guides cannot be changed for TAP students. ",
+                        children: "Documentation of change of supervisor guidelines for TAP/FA students."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "The point has been looked into by the council, and currently, only DGSecs can nominate AURAAs to be present in the meetings but not as permanent members.",
+                        children: "Proposing the policy of inclusion of AURAAs in DPGC Meetings."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "The council plans to talk with Dean SA.",
+                        children: "To propose scrap committee formation for clearing chemical and hardware-based waste product across all the departments."
+                    })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: "Mental Health "
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Hr, {
+                        // reply: "Immediate opportunities are posted on webmail. Documentation of recurring funding opportunities will be collected. ",
+                        children: "Introducing 1 to 1 mentorship programme foreign students."
+                    })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: "Follow-ups"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply: "Not started yet.  ",
+                        children: "To follow up on streamlining the recent stipend increase for TAP category students and ensure auto-upgradation from JRF to SRF conversion."
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "Communication with Dean AP has been initiated. Sample draft certificates are in progress and then will go to HoDs.",
+                        children: "To follow up on proposal of TAship certificate to provide the proof for internship and placement at institute level."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "The proposal was not successful at the senate after joint efforts from ex-GSAA PG and current.",
+                        children: "To follow up the proposal for Mtech options (by coursework and/or by thesis)."
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "Off Manifesto Points"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "The council is still working to ensure the smooth resolution\xa0of\xa0the\xa0issue",
-                        children: "PGAC pushed the admin to expedite the disbursement of the updated stipend and arrears."
+                        reply: "The primary role of the council is to organise TechConnect and assist in research initiatives. ",
+                        children: "Proposed constitution of IITB research council under IRCC. "
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "Speaker has been decided for the event. ",
+                        children: "Conducting an event on women's safety: safe city app (POSH)."
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "In collaboration with GSTA. ",
+                        children: "Adding rulebooks in the chatbots instigpt to help reduce student grievences."
                     }), (0, Ne.jsx)(Hr, {
-                        children: "Conducted 5+ sessions and workshops with IITB alumni to help students with placement preparation; these included resume and interview prep sessions with incentive points for attendees."
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "PGAC conducted a panel discussion with the Director and Deputy Directors of IIT Bombay on their journey from academic to administrative on 7th February 2024."
-                    }), (0, Ne.jsx)(Hr, {
-                        children: 'PGAC collaborated with SARC for "Alumni Odyssey: The PG Guide\xa0to\xa0Success"'
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "PGAC organized and event featuring Mr Sameer Patwardhan - Ola Electric's Association Director."
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "PGAC organized a introductory orientation session about DSSE for\xa0PG\xa0students"
-                    }), (0, Ne.jsx)(Hr, {
-                        reply: "This has been approved for the batch joining from\xa02023\xa0onwards",
-                        children: "PGAC proposed to decouple the 2 degrees for MSc + PhD dual degree students which will allow them to get 2 separate degrees, each after the completion of the respective program."
+                        children: "Setting up of digital notice boards in academic areas."
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "Ongoing/Completed to some extent",
+                        children: "Proposing a draft for running summer courses for PG students. "
                     })]
                 }), (0, Ne.jsx)($r, {
                     toShow: 0
