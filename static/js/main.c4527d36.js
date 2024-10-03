@@ -10721,48 +10721,44 @@
                     imgsrc: "/gsha.jpg",
                     por: "General Secretary Hostel Affairs",
                     chartsrc: "/hostel.png",
-                    completed: 55.8,
-                    notstarted: 11.6,
-                    Ongoing: 32.6,
+                    completed: 23.3,
+                    notstarted: 16.7,
+                    Ongoing: 60.0,
                     unclear: 0
                 }), (0, Ne.jsx)(Br, {}), (0, Ne.jsx)(Ar, {
                     children: "Eateries and Mess"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "Setup of a food outlet & installation of automatic snack and beverage vending machine in Central Library Area"
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply:"It will be constructed in the H14 extension as part of a bigger project in the area.",
+                        children: "Push for the establishment of a New Mess facility between Hostel 13 & 14"
+                    }), (0, Ne.jsx)(Hr, {
+                        reply:"Vending machines have been installed and are operational in several hostels; have been approved for academic areas and the process is underway.",
+                        children: "Install 24x7 Vending Machines along with remote purchasing via a mobile application for snacks, beverages, & healthy options in hostel & academic area"
+                    }), (0, Ne.jsx)(Hr, {
+                        reply:"The construction is underway. The tender has been floated and vendors are applying; it should be operational in November",
+                        children: "Follow up on the completion of the LHC Food Court featuring charging outlets, refreshments, & seating area for students to relax in between classes"
                     }), (0, Ne.jsx)(Wr, {
-                        children: "Push for night canteens for H-17, 18 in collaboration with the hostel councils"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Set up a branded Coffe Outlet's Express Service near H5 or Aromas at subsidized rates"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Restart Surplus Food donation campaign to ensure timely collection and donation of surplus mess food via partner NGOs"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Workshops by nutritionists for mess councillors along with chefs and mess managers"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Set up Fruit and Salad Centre near H1 or H14 and ensure delivery to hostels"
+                        reply:"Amul has been given permission for a dairy shop, on-ground work to be started by mid-october.",
+                        children: "Set up a new store selling day-to-day Dairy Products to promote healthy snacking"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"Ongoing/completed to some extent",
+                        children: "Follow up on the implementation of a centralized Institute Eateries Portal to integrate & streamline ordering from various canteens across the institute"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"The council is in talks with potential vendors ",
+                        children: "Propose setting up Cloud Kitchen based food outlets in Project Evergreen"
                     })]
                 }), (0, Ne.jsx)(Ar, {
-                    children: "Institute Wide Facilities"
+                    children: "TRANSPORTATION"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "With regards to this point, cycle stands in front of indoor courts are completed and cycle shed for hostels are underway",
-                        children: "Follow up on a comprehensive Cycle Shed Policy (to ensure construction of cycle sheds in hostels) and push for Cycle stand to be installed in front of indoor courts"
+                        reply: "In conversation with the vendor, who has agreed to supply more EVs however, they are waiting for the multilevel parking to be completed.",
+                        children: "Ensure the introduction of E-Scooters & more E-Shuttles while expanding overall operational time to enable 24x7 transportation service in the institute"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply:"The talks have been initiated with the startup but they would need to do some research",
+                        children: "Introduce the concept of Battery Replacement with spare charged batteries to increase overall on-road availability of E-Shuttles in addition of new routes"
                     }), (0, Ne.jsx)(Wr, {
-                        children: "Propose to have a 24*7 medical store near H18 or old sac"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Push for execution of the umbrella project consisting of road renovation, the creation of a separate cycle track and footpath"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Follow up on proposal of a Playground facility near H-17,7 and a park near H-15,16"
-                    }), (0, Ne.jsx)(Wr, {
-                        children: "Follow up on setting up of a unisex hair salon near H-12,13,14"
-                    }), (0, Ne.jsx)(Wr, {
-                        children: "Push for setup of an Electronics Buy and Repair shop in H-15"
-                    }), (0, Ne.jsx)(Wr, {
-                        children: "Ensure installation of sign boards and maps in the institute"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Push for the installation of Sanitary Napkin Dispensers in the academic area & female hostels"
-                    }), (0, Ne.jsx)(Wr, {
-                        children: "Installation of coordinated Digital Display Boards at prominent locations in campus (to curb uses of posters and flexes)"
+                        reply:"Installation of signage boards has been done, the rest however is still in works. In hostel areas, traffic roadway markings will be done after hostel construction.",
+                        children: "Increase campus road safety by installing convex mirrors, follow up on safety signage boards, traffic roadway markings on all roads of the institute"
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "Transparency and Accountability"
@@ -10775,87 +10771,101 @@
                         children: "Follow up on the formation of the hostel constitution"
                     })]
                 }), (0, Ne.jsx)(Ar, {
-                    children: "Transportation and Security"
+                    children: "HOSPITAL & PUBLIC HEALTH"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "Push for introduction of fast chargers as part of e shuttle charging facility and increase number of shuttles"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Push for time extension of e shuttle service and addition of new routes across campus"
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply:"A committee has been formed to overlook the digitalisation of the hospital, PoA and vendor has been finalized.",
+                        children: "Follow up on Digital Appointments, Health Management Information Systems & Digital Prescriptions by pushing for IIT Bombay Hospital digitalization"
                     }), (0, Ne.jsx)(Wr, {
-                        children: "Ensure introduction of e rickshaws and e bicycles"
+                        reply:"Ongoing/completed to some extent",
+                        children: "Follow up on the installation of Sanitary Pad Vending Machines & Hand Dryers at major areas in the institute and Incinerator Machines for their safe disposal"
                     }), (0, Ne.jsx)(Wr, {
-                        children: "Propose to have a special transportation service for the Specially-Abled students with an on-call pickup & drop-off"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Push for the installation of Real-Time GPS Trackers in the electric shuttles and the integration of the 3-D Live Track of the same with the Insti app"
-                    }), (0, Ne.jsx)(Wr, {
-                        children: "Propose building a Permanent Fence behind Hostel 12-13-14 to ensure security of the residents"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Push for Higher Fire Safety Standards by revamping the currently existing safety measures and by ensuring the conduction of fire safety Mock Drills and Training for fresher students"
-                    }), (0, Ne.jsx)(Wr, {
-                        children: "Follow up on building a Security Website with updated contact lists of the authorities and personnel along with the Security Code of Conduct, ensure maintenance of lost and found portal"
+                        reply:"Ongoing/completed to some extent",
+                        children: "Push for completion of PHO Digitalization to streamline room cleaning request, cleanliness verification of hostel areas, common areas & raising sanitation complaints"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply:"The council is in liaison with the administration to follow up on this.",
+                        children: "Conduct a Full Body Health Checkup, including eye testing, hearing audiometry tests, complete blood count tests to boost the overall health of students"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply:"Instead of a portal, a comprehensive form is being developed which will be linked to a central hospital digitalized portal, for which the PoA and vendor has been finalized.",
+                        children: "Develop a new comprehensive Hospital Feedback & Complaint Portal to address the issues and grievances faced by the students"
                     })]
                 }), (0, Ne.jsx)(Ar, {
-                    children: "Sustainability Cell"
+                    children: "INSTITUTE-WIDE FACILITIES"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "Introduce Awards for hostels on the basis of energy, water usage, & waste segregation"
-                    }), (0, Ne.jsx)(Ur, {
-                        children: "Push for a 'Net Zero Campus': Usage of Renewable Energy for various purposes in the Hostels and Transport Facilities"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "There are too many stakeholders to bring together.",
-                        children: "Follow up on formation of the Umbrella Committee to unite sustainability stakeholders"
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply:"For 12-13-14 redevelopment project is in the works and new cycle shop will be made there; further the H3 repair shop space willl be redeveloped and the new vendor has been finalized.",
+                        children: "Establish a new Cycle Repair Shop near H12-13-14 to cater to needs of the students"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"Ongoing/completed to some extent",
+                        children: "Propose the establishment of a Centralized Laundry Service to cater to general & special needs of people like dry cleaning, suction cleaning, & steam cleaning"
                     }), (0, Ne.jsx)(Hr, {
-                        children: "Follow up on the Waste Segregation project to provide for sustainable waste disposal,"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Conduct Drives in hostels to create awareness about the importance of sustainability."
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Follow up on the Waste Data Mapping project to instil behavioural change among the students"
+                        reply: "A portal where the waitlist can also be seen is live.",
+                        children: "Follow up on the implementation of Married Research Scholar Portal to ease the flat allotment process for married PhD students"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"Ongoing/completed to some extent",
+                        children: "Push for the integration of various hostel affairs related portals with MyIITB for centralized access"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"Ongoing/completed to some extent",
+                        children: "Promote the adoption of the AMS & establish new digital workflows to streamline standard procedures & permission processes in major institute offices"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"The tender is being worked on. The space has been constructed.",
+                        children: "Follow up on establishing a new Hair Salon for institute populous"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"It is being constructed in parts of the institute, starting with H1. Two automatic doors have been installed",
+                        children: "Push for establishing more Inclusive Infrastructure like ramps, handrails, automatic doors, special needs washrooms to aid student ease & mobility"
                     })]
                 }), (0, Ne.jsx)(Ar, {
-                    children: "Hostel Facilities and Hospital"
+                    children: "SECURITY"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "Ensure the installation of 24x7 L-DAP Based Printers in all Hostels"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Increase the Amenities in hostel basic amenities list and ensure collaborative procurement"
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply:"Not started",
+                        children: "Propose the monitoring of vehicle entry-exit by introducing License Plate Scanning System to record vehicle details and maintain an accessible digital database"
                     }), (0, Ne.jsx)(Wr, {
-                        children: "Follow up on digitalization of room cleaning process through the PHO Digitalization initiative"
+                        reply:"Ongoing/completed to some extent",
+                        children: "Ensure Emergency Alarm & PA Systems are installed & running for all hostels and Mock Safety Drills are conducted for early evacuation in case of hazardous situations"
+                    })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: "SUSTAINABLE & AESTHETIC CAMPUS"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply:"The proposal has been approved by A Dean SA",
+                        children: "Implement a Water Overflow Protection System to reduce wastage in water tanks."
                     }), (0, Ne.jsx)(Hr, {
-                        children: "Ensure implementation of the Hostel Room Management Portal ensuring hassle-free paperwork"
+                        reply:"There is a proposal to write hostel names through bushes",
+                        children: "Follow up on the installation of Digital Display Boards at various locations within the institute and Boathouse Renovation for institute beautification"
                     }), (0, Ne.jsx)(Wr, {
-                        children: "Implement a Hospital Portal for online management of medical records, setting up appointments, and smoothening the process of voluntary blood donation and vaccination"
-                    }), (0, Ne.jsx)(Ur, {
-                        children: "Conduct general Health Awareness Camps with workshops about healthy lifestyle & exercise"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Push for Medical Drives in hostels comprising Physicians, Dentists, & Eye Specialists"
+                        reply:"Ongoing/completed to some extent",
+                        children: "Propose the construction of aesthetic structures like Sculptures, Vertical Gardens while promoting Plantation Drive to beautify the existing campus infrastructure"
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "Miscellaneous"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Ur, {
-                        children: "Re-introduce Passport Mela and Pan Card Drive"
+                    children: [(0, Ne.jsx)(Hr, {
+                        reply:"Tender has been floated. Vendors will be finalized before end-sems.",
+                        children: "Follow up with hostel 9, 11, 17, 18 & Tansa councils to set up night canteens"
                     }), (0, Ne.jsx)(Hr, {
-                        children: "Integrate Smart Map with Insti App"
+                        children: "Draft a new Handbook to include procedures & duties of EMD, Estate department, & PHO to ensure greater accountability & procedural awareness"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"The construction has already begun, was halted because of monsoons",
+                        children: "Push for the execution of Umbrella Project consisting of road & cycle track renovation and follow up on the construction of Cycle Stand & Shed in each hostel"
                     }), (0, Ne.jsx)(Hr, {
-                        children: "Introduce an Online Interface for graduating students to facilitate the donation of belongings"
-                    }), (0, Ne.jsx)(Ur, {
-                        children: "Follow up on Digital Guest Entry System for convenient entry-exit and record maintenance"
+                        reply:"Completed in some hostels already",
+                        children: "Push for the expansion of IITB Wireless coverage to all hostels"
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "Off Manifesto Points"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "Aesthetic campus project was initiated and primary works of seating space in front of Hostel 10 as well as various works in academic area including seating spaces for students"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Student subsidy at Dominos was increased to 20% and delivery charges reduced by 50%; Pav bhaji and live dosa center was established at Aromas; and the menu and timings of CCD were incremented"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Structural repair works initiated and completed in Hostels 6,9,1,16 with renovation of Hostel 3 under progress and external painting of Hostels Tansa and 15 under progress, external painting for H9 approved and work to be started soon; infrastructure facilities for Specially abled students worked upon and completed at various locations in the Institute. Playfield development of Hostel 9 completed and Hostel 13 approved. Conversion of box rooms into washrooms initiated in Hostel 1 and work under progress. Road repair works in Hostel area initiated and completed."
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Swachhata Pakhwada: Conducted Cleanliness drives at various places in the campus with collaboration of students, staff and external NGO. Coordinated with all the hostel council and successfully carried out a 15-day long event. Tree plantation was conducted in all the hostels which were provided and arranged by the institute. Award ceremony conducted to facilitate the best performing hostels. Students at IITB made a commitment to actively minimize food waste through a pledge. Implemented Comprehensive waste management policies, ensuring proper waste management practices in the hostel kitchens. Dedicated dry and waste bins were thoughtfully installed in hostels at IITB for effective waste segregation."
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "The HGSC (Hostel General Secretaries Committee) award ceremony took place on the 13th of October. Students who had made invaluable contributions to the institute's community were recognized and awarded during the ceremony. The awards were presented by the Dean of Student Affairs (SA) and the Associate Dean of Student Affairs (A Dean SA)."
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "PhD second year females were provided with single occupancy rooms in Hostel 10/11.There was a policy of providing double occupancy rooms to 2nd year PhD female students, but through the efforts of HA council, they were provided single occupancy rooms. Coordinated and conducted the \u2018Dinner with Instructors\u2019 held for UG New entrants at Hostel\xa016\xa0and\xa01."
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply:"Ongoing/completed to some extent",
+                        children: "Establish dedicated EV stops with sheds to support sustainable transport and convenience"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"Ongoing/completed to some extent",
+                        children: "Install dustbin holders in all hostels to prevent dustbin tumbling, ensuring better stability and hence cleanliness"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"Ongoing/completed to some extent",
+                        children: "Develop aesthetic seating areas for general discussions, enhancing campus interaction and visual appeal."
+                    }),(0, Ne.jsx)(Hr, {
+                        children: "Organising open house meetings in Hostels"
                     })]
                 }), (0, Ne.jsx)($r, {
                     toShow: 0
@@ -10877,31 +10887,23 @@
                 }), (0, Ne.jsx)(Gr, {
                     name: "Ishaan Abhyankar",
                     manlink: "https://drive.google.com/file/d/1DKyBrpEwVDP9y8UzZM0x_BrCY13NsOH_/view?usp=drive_link",
-                    imgsrc: "/rishi.png",
+                    imgsrc: "/ishaanGSCA.jpg",
                     por: "General Secretary Cultural Affairs ",
-                    completed: 28.21,
-                    notstarted: 38.46,
-                    Ongoing: 33.33,
+                    completed: 20.0,
+                    notstarted: 36.0,
+                    Ongoing: 44.0,
                     unclear: 0
                 }), (0, Ne.jsx)(Br, {}), (0, Ne.jsx)(Ar, {
-                    children: "EXPOSURE | "
+                    children: "PROFESSIONAL OPPORTUNITIES | "
                 }), (0, Ne.jsx)(Rr, {
-                    children: "Elevating Culturals"
+                    children: "BEYOND THE WALLS"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Ur, {
-                        reply: "The team has decided to pursue it in a more entrepreneurial way, so it can\u2019t be used",
-                        children: '"TalentHub@IITB: Develop a portal for IIT-B students to market their skills in design, photography, videography, etc., to fulfill the requirements of students, faculty & institute bodies "'
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "We conducted a showcase at Alumination and also distributed a newsletter. Additionally, we convened a meeting in the Dean's ACR office. However, the setup for the corpus fund has not yet obtained approval from the Dean's ACR office. There is a pressing need for assurance regarding the availability of funds to ensure sustainability. The pitch has not been presented as of now.",
-                        children: "Corpus Connect: Push to set up a Corpus Fund & invite donations from alumni through showcase events like Alumination & various newsletters to facilitate participation in external competitions"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "This wasn't a standalone event. 'IITB Got Talent' took place during the PG Cult Phase 2, and jam sessions have already occurred. Due to scheduling constraints, each element had to take place separately. Coordinating such an event was challenging. A similar event, the Mumbai Mela for freshmen, was held on a comparable scale, but not during the spring semester.",
-                        children: '"M\xe9lange: Organize an informal night comprising of karaoke, art competition, board games, jamming, & IITB\'s Got Talent early in the spring semester at Old SAC & SAC back lawns "'
-                    }), (0, Ne.jsx)(Hr, {
-                        reply: "Kaava conducted a full-fledged orientation. Workshops were held in December, taking place in the kitchen. Additionally, there was a karaoke barbecue night. Another competition is in the planning stages, with the intention of making it a grand competition within the next two years.",
-                        children: "Conduct cooking competitions & workshops to facilitate quality participation in Inter IIT Culturals"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Ensure formation of Genre Captains at the start of the tenure to handle contingent auditions, practices, & logistics for external competitions throughout the year & Inter IIT Cultural Meet"
+                        reply: "The council will not be able to complete it. The Dean Student Affairs had denied permission to conduct it when they had reached out during the summer.",
+                        children: 'Thrive: Facilitate professional opportunities for students in the form of Live Your Passion, awarded for completing ICSP projects and stand-out efforts'
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "The council has decided to conduct it only during the second semester.",
+                        children: "Keynote: Organize fortnightly talk sessions in both semesters featuring prominent, cultural personalities, fostering insightful discussions across various genres"
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "SOCIAL IMPACT | "
@@ -10909,137 +10911,110 @@
                     children: "Cult-For-A-Cause"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "For Kaladarshan, there were plans to launch a form for artwork submissions intended for donation, specifically paintings for auction purposes. In this process, artists who donate their paintings for auction will participate in a silent auction, with consent obtained from each artist. Verification of the artwork can be done through the form. Discussions were underway with a professor who runs a non-profit organization. If an agreement isn't reached with him, coordination will be pursued with NSS, although the preference is to proceed independently.",
-                        children: '"Culturally Conscious: Collaborate with NSS IIT Bombay & Non-Profit Organizations in the institute to raise funds for social causes by monetizing artworks & showcases in flagship even "'
+                        reply: "The council has drafted a proposal in collaboration with NSS as of 2nd October 2024.",
+                        children: 'Paathshala: Reinitiate collaboration with NSS IIT Bombay for outreach initiatives focused on providing cultural classes to underprivileged students across communities.'
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "A script was prepared for a performance but never staged. Coordination was done with Sulaghna Ma'am for student initiatives, including addressing student issues with dance and music therapy sessions. The street play script was introduced through ICSP, with mentorship provided to students. Although initially planned for Sophie Prod, it didn't happen. Plans for  doing this in Fresshiezza part 2 are in progress, but not in the Street Play GC, which  won't occur due to event overload.",
-                        children: "Shattering Stigma: Collaborate with the Student Wellness Center to organize street plays & flash mobs on important issues, to raise awareness about mental health among institute residents"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "Work commenced in July to try minimize printing posters, but it did not work out further",
-                        children: '"Reflex: Collaborate with NSS IIT Bombay to follow up on donation of PVC banners for reuse by NPOs; provide yearly statistics on waste reduction, thereby minimizing publicity waste "'
+                        reply: "A street play was organized in front of Domino's on 29 August 2024. No plays have been conducted outside of the institute yet. The council is planning to conduct them at Happy Streets on 6 October 2024.",
+                        children: "Beyond the Gates: Organize Street plays and flash mobs at various iconic Mumbai locales, with a special emphasis on raising awareness for various social causes"
                     })]
+
                 }), (0, Ne.jsx)(Ar, {
-                    children: "HOSTEL CULTURE | "
+                    children: "HOSTEL & PG CULTURE | "
                 }), (0, Ne.jsx)(Rr, {
-                    children: "Reviving Culturals"
+                    children: "Cult Coming To You"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        reply: "All the councils have their own GC leaderboards, so there's no assurance that the leaderboard will be updated regularly by all the 3 council's as only Cult people approached devcom. This means that all work was done from ICC's side.",
-                        children: "\"GC Meter: Create a 'General Championship Blog' on InstiApp in collaboration with DevCom to enhance transparency & competitiveness, by maintaining overall leader board, results & scores \""
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "This did not happen",
-                        children: "GC Lookback: Release semesterly document consisting of live recordings & testimonials of GC participants & Cultural Councilors to increase recognition of various art forms in hostelites"
-                    }), (0, Ne.jsx)(Hr, {
-                        reply: "The event was successfully executed, aiming to distribute prizes from last year's PAF and Cult Cup. Each cultural coordinator was given an opportunity to be on stage. Notably, more participation came from non-performing hostels. Incentive points akin to sports were allocated based on participation. there was a turnout of approximately 700 people in the Convocation Hall.",
-                        children: "GC Ceremony: Conduct GC Opening Ceremony before first Cultural GC to increase awareness"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "This did not happen",
-                        children: "Ensure jamming & workshops in common areas of hostels to improve hostel penetration"
-                    })]
-                }), (0, Ne.jsx)(Ar, {
-                    children: "LEARNING | "
-                }), (0, Ne.jsx)(Rr, {
-                    children: "Enriching Culturals"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Ur, {
-                        reply: "This did not happen",
-                        children: "Propose introduction of courses like Western Vocals and Music Production in NSO Culturals"
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply: "The council has drafted a proposal for the SWC and it was submitted on 2nd October 2024. The events are planned for at least some hostels around 11-13 October 2024 on account of Mental Health Day on 11 October 2024.",
+                        children: "Mood Mural: Collaborate with the Student Wellness Centre to organize hostel wall painting events, fostering bonding, and creating more lively and beautiful living environments"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "An open mic was conducted in H18 in August. The council is planning to cover other hostels later",
+                        children: "Sarhad Paar: Arrange open mics across hostels to enhance artistic expression while improving inter-hostel bonding and giving performers a chance to practice."
                     }), (0, Ne.jsx)(Hr, {
                         reply: "",
-                        children: "Conduct workshops on niche topics like Improv, Generative Art, Mime, Jazz Techniques etc."
-                    }), (0, Ne.jsx)(Hr, {
-                        reply: "we are making the students of NSO dramatics to make a street play script as project, we invited NSO students to jammings, we organised performances during Republic Day, Independence Day, Gandhi Jayanti from NSO Vocals to jammings",
-                        children: "Push for project/performance within the NSO Culturals to ensure integration into cultural events"
+                        children: "Awareness: Host a comprehensive GC briefing session for all cultural councillors to build awareness about the various available resources, leading to higher-quality entries."
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "This did not happen",
-                        children: "Ensure a mentorship structure in 'Cult Not Difficult' to engage newer people in cultural clubs"
-                    }), (0, Ne.jsx)(Hr, {
-                        reply: "All projects were either in collaboration with a professor or initiated by an external individual. In journalism, WeSpeak produced a 7-minute video focused on policy change. Despite providing contacts of professors to participants who engaged in group work with professors, the expected output did not materialize. For the crossword puzzle, no newspaper agreed, leading to inviting Yahya instead. The music analysis project also occurred as planned.",
-                        children: '"Ensure professor guided ICSP & inclusion of professional mentorship in rest of the projects; Moreover, include new projects like music analysis, journalism & cryptic crosswords "'
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "The tasks are still in progress. Data aggregation is underway on OneDrive, requiring additional storage due to workshop-related content. Permission from the CC is necessary for this purpose. The website is currently under construction",
-                        children: '"Aggregate all the previous & future workshop recordings on culturals website for indefinite access "'
-                    }), (0, Ne.jsx)(Hr, {
-                        reply: "workshop was conducted before the Inter-IIT event, taking place in the last week of October.",
-                        children: "Foster writing community by organizing regular inter-club writer's meet for writers of Literati, Fourthwall & Vaani to facilitate propagation of knowledge from various niches"
+                        reply: "Tea parties will happen at the end of the semester. The council has already discussed with the hostel councils of H12, H13 and H14.",
+                        children: "Utilize tea parties organized in PG Hostels to host jamming sessions and photo booths in collaboration with the hostel councils."
                     })]
                 }), (0, Ne.jsx)(Ar, {
-                    children: "PG CULT | "
+                    children: "INNOVATION | "
                 }), (0, Ne.jsx)(Rr, {
-                    children: "Expanding Culturals"
+                    children: "Pioneering Culturals"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Ur, {
-                        reply: "There were attempts but it did not materialise",
-                        children: "PG Sandhya: Host a PG open mic in the H12/13/14 cone area to engage a wider PG audience"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "Workshops were conducted in PG hostels, covering anchoring skills in Phase 1. Cult coordinators for phases 12, 13, and 14 were encouraged to participate. Collection of Phase 2 points is underway, which was skipped last year. The term 'bilegged' refers to separate consideration of Phase 1 and 2, still in practice. Departmental cultural secretaries need to demonstrate greater responsibility. ",
-                        children: '"Retain the bi-legged structure of Department GCs & hold regular workshops in PG Hostels "'
+                    children: [(0, Ne.jsx)(Hr, {
+                        reply: "This event happened as part of 'Carve-a-thon' conducted as part of PG Cult Informals 1 on 31st August. ",
+                        children: "Culinary Lens: Initiate collaboration between Photography and Culinary clubs to capture food art via photography, offering exposure to both photographers and food artists"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "It hasn't started since flagships of most cultural genres will happen during the second semester.",
+                        children: "Behind the Curtains: Create club-wise mini-documentaries covering behind-the-scenes of flagships for long-term content aggregation and showcase in later events"
+                    }), (0, Ne.jsx)(Hr, {
+                        reply: "Professor RK Pant performed during PG Culturals orientation",
+                        children: "Faculty Fusion: Push for faculty performances in orientations to bridge the gap between them and freshers thus encouraging student participation and inclusivity"
+                    }), (0, Ne.jsx)(Hr, {
+                        reply: "",
+                        children: "Cult Gyan: Create a genre-wise and overall point-tracking mechanism to encourage multi- genre participation and help determine Cultural Freshmen of the Year"
                     })]
+
+
                 }), (0, Ne.jsx)(Ar, {
-                    children: "Web & Publications |"
+                    children: "WEB & PUBLICITY | "
                 }), (0, Ne.jsx)(Rr, {
                     children: "Broadcasting Culturals"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        reply: "It was launched during Alumination, the second semesterly newsletter is planned to be released in April",
-                        children: "The Cultural Heritage: Launch a semesterly newsletter of the Institute Cultural Council to publicize achievements, literature pieces & experiences to increase student & alumni outreach"
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply: "PAF and Freshiezza haven't happened yet.",
+                        children: "Boost spot merchandise sales with instant customization options and live stalls during major events like PAF & Freshiezza, aiming to enhance post-event publicity "
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "A draft was made for the song, it was not chosen to be the final anthem, so the song was released independantly ",
-                        children: "Produce a Culturals Anthem to promote the rich diversity of Culturals in various genres in IITB"
+                        reply: "The participant database management system is ready to maintain records of participation of students in various club activities but data is yet to be uploaded on the website.",
+                        children: 'Introduce a participant database management system to maintain organized records to aid resume verification and generate e-certificates for workshops/competitions.'
+                    }), (0, Ne.jsx)(Hr, {
+                        reply: "",
+                        children: "Release cultural calendar on the ICC website, and also include an iCal and VCS for convenience and to give timely reminders for all students."
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "This did not happen",
-                        children: "Create an Instagram page for regular sharing of informal student creations like poetry, & music as collaborative posts & providing better outreach for summer programs such as CultConnect"
+                        reply: "The council is planning to do it for Freshiezza.",
+                        children: "Revamp publicity with AR-enhanced posters, eco-conscious installations, and AR- activated photobooths to deliver immersive and interactive glimpses of events."
                     })]
                 }), (0, Ne.jsx)(Ar, {
-                    children: "INFRASTRUCTURE | "
+                    children: "INFRASTRUCTURE & TRAINING |"
                 }), (0, Ne.jsx)(Rr, {
-                    children: "Equipping Culturals"
+                    children: "Seamless Culturals"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "Aggregation was carried out using Google Sheets. However, a system for issuing inventory was not established. This idea was abandoned because the Student Activity Center provides the necessary equipment upon request.",
-                        children: "Inventory Digitization: Push for the creation of an aggregate of music, film, & photography inventory of SAC by institute secretaries to account for regular maintenance & transparency"
+                        reply: "The council is planning to procure this inventory using the funds from the Nandan Nilekani proposal. The proposal has been presented to the Dean but funds haven't been received yet.",
+                        children: "Push for acquiring inventory like theatre lights, sewing machines, and cupboards."
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "Quotations for digital walls are currently being obtained, and the Design Secretary has developed a basic layout for the content placement.",
-                        children: "Refurbish the Gallery wall in SAC to showcase student artworks in genres such as Design, Fine Arts & Folk Arts; Mark important events on the monthly calendar created by StyleUp & Pixels"
+                        reply: "The council is planning to procure this inventory using the funds from the Nandan Nilekani proposal. The proposal has been presented to the Dean but funds haven't been received yet.",
+                        children: "Procure inventory like cameras and storage devices for ICC's publicity and marketing team to assist with content creation and expand an in-house content library."
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "The council has arranged a carpenter to build ramps. The council said it will be done by the second week of October.",
+                        children: "Improve accessibility of SAC rooms for specially-abled persons via ramps."
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "The council is planning to echo-proof the theatre room using the funds from the Nandan Nilekani proposal. The proposal has been presented to the Dean but funds haven't been received yet. The soundproofing of the music room will be done using the ICC budget.",
+                        children: "Push for soundproofing in the Music Room and echo-proofing in the Theatre Room."
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "This did not happen",
-                        children: "Create directory of vendors for student discounts on purchase & repair of music & other equipment"
-                    }), (0, Ne.jsx)(Hr, {
-                        reply: "Five to six cameras were purchased, as a significant amount of inventory was lost post-COVID, there were also plans to procure sewing machines (which were intended for NSO fashion) and cupboards. The procurement process was facilitated through 3 to 4 meetings organized by IOE Doola. Only purchase of sewing machine is pending, rest were done",
-                        children: "Push for the purchase of additional inventory such as cameras, theatre lights, hard drives, gimbals, amplifiers, microphones, projector, sewing machines & cupboards"
+                        reply: "The council is planning to conduct it in the week of 1 October-7 October 2024.",
+                        children: "Conduct workshops on delicate inventory handling for newly acquired items, promoting safe and efficient use while encouraging responsible handling practices."
                     })]
+                
                 }), (0, Ne.jsx)(Ar, {
                     children: "FOLLOW-UPS | "
                 }), (0, Ne.jsx)(Rr, {
                     children: "Continuing Culturals"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
-                        reply: "The site is live now, but a lot of changes are left to be made.",
-                        children: "Culturals.iitb: Develop a website to establish an online presence & create a one-stop portal to access important information, workshops, blogs, & past event videos & highlights of all genres"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "This did not take place.",
-                        children: "Revive 'Cult Yatra'- genre trips of cultural clubs to cultural institutions/events around Mumbai"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "Publicizing inter-college achievements was planned but not executed due to the higher number of participants, making it logistically challenging to implement.",
-                        children: "Ensure personalization of 'Know-Your-Contingent' & publicity of Inter College achievements"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "This did not take place.",
-                        children: "Revive Cult Buddy system in NSO Culturals for a prolonged association of students with clubs"
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply: "Not started",
+                        children: "Freelance Cult: Set up a freelancing portal for all relevant cultural clubs to provide opportunities of value to students."
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "We booked a recurring studio, shot it with alums like Sanskar Wavale and Prasann Joshi which took (10+ hours each), Editing is not done yet",
-                        children: "Revamp Cult Chronicles to launch video podcasts on Cultural's Instagram & Youtube page of experiences shared by club seniors, & master talks by professors & industry experts"
+                        reply: "The council had submitted a proposal for NSO Fashion during May 2024. 4 months will be required for its implemetation and hence it wasn't included in the NSO activities  of the UG'24 batch.",
+                        children: "Push for the inclusion of NSO Fashion Design, NSO Filmmaking, and NSO Debate."
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "This could not take place.",
-                        children: "Push for regular meets of institute cultural secretaries & hostel genre secretaries to provide redressal for genre-specific grievances & ensure maximum outreach in events & GCs"
+                        reply: "Inter IIT is to be conducted in December.",
+                        children: "Organize a team dinner before Inter-IIT for contingents to break the ice and raise morale."
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "The proposal was approved, but despite that, open gym equipment was stored there. However, IBS needed the rooms, but renovation hasn't taken place yet. The old yoga room was designated for the inventory, and it was supposed to happen in the theater room.",
-                        children: "Push for allocation of a common room in Old SAC for Literati, WeSpeak, Vaani, & ComedyCons, & designation of a storage space for inventory of StyleUp & The Design Club"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "This did not take place.",
-                        children: "Extend availability of Cultural merchandise to M\xe9lange & Freshiezza along with orientations"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Conduct Freshiezza for the current freshers in summers to compensate for the missed opportunity"
+                        reply: "Yoga room has been whitewashed and painted as of 2 October 2024.",
+                        children: "Follow up on the refurbishment of the Old SAC Yoga Room, adding ambience, seating arrangement, bookshelves, and mic stands with adequate storage space to cater to the requirements of various clubs."
                     })]
+                    
                 }), (0, Ne.jsx)(Ar, {
                     children: "MANAGEMENT | "
                 }), (0, Ne.jsx)(Rr, {
