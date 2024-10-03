@@ -10212,7 +10212,7 @@
                         children: "Sport of the Month: Reintroduce non-conventional sports & games like Fencing, GO, and Curling through workshops, cultivating diverse athletic exploration"
                     })]
                 }), (0, Ne.jsx)(kr, {
-                    children: "MANAGEMENT& OUTREACH | "
+                    children: "MANAGEMENT& OUTREACH "
                 }), (0, Ne.jsx)(Ar, {
                     children: "Operational Excellence"
                 }), (0, Ne.jsxs)(Or, {
@@ -10686,8 +10686,9 @@
                     }), (0, Ne.jsx)(Wr, {
                         reply: "In collaboration with GSTA. ",
                         children: "Adding rulebooks in the chatbots instigpt to help reduce student grievences."
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Setting up of digital notice boards in academic areas."
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"The GSAA PG sent a mail regarding this to Dean SA in August",
+                        children: "Proposed setting up of digital notice boards near IDC, the entrance of the infinity corridor and the vicinity of LHC/SOM to improve event visibility. "
                     }), (0, Ne.jsx)(Wr, {
                         reply: "Ongoing/Completed to some extent",
                         children: "Proposing a draft for running summer courses for PG students. "
