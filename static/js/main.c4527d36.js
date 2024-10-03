@@ -10062,185 +10062,181 @@
                     manlink: "https://drive.google.com/file/d/1VLPLVrevA4rJe72XDw_ERrq8Mx1D5XAc/view?usp=drive_link",
                     imgsrc: "/Siddharth_Farkiya.jpg",
                     por: "General Secretary, Sports Affairs ",
-                    completed: 55.3,
-                    Ongoing: 28.9,
-                    notstarted: 15.8,
+                    completed: 23.3,
+                    Ongoing: 40.0,
+                    notstarted: 36.7,
                     unclear: 0
-                }), (0, Ne.jsx)(Or, {
-                    children: "Note: The original manifesto of the ex-GSSA [Anshul Panwar] has been followed for the making of this GS meter"
                 }), (0, Ne.jsx)(Br, {}), (0, Ne.jsx)(kr, {
                     children: "INITIATIVES "
                 }), (0, Ne.jsx)(Ar, {
-                    children: " Athlete's Odyssey | "
+                    children: " Fit Campus,Happy Campus | "
                 }), (0, Ne.jsx)(Rr, {
-                    children: "Promoting Holistic Wellness"
+                    children: "Strive for Vitality"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsxs)(Hr, {
-                        reply: "A one day event conducted with Fitistan with the Push India Push challenge",
-                        children: [" ", "Triumphs of the Mind and Body event on account of National Sports Day which intends to advocate mental and physical fitness into an immersive experience of 3-action packed days", " "]
+                        reply: "",
+                        children: "Conduct fitness oriented body scans on National Sports Day, coupled with awareness camps to focus on injury prevention and conditioning"
                     }), (0, Ne.jsx)(Hr, {
-                        children: "Sports Union - the Alumni Day, before Inter IIT Camp to leverage event as an opportunity to introduce collection of blog posts commemorating the remarkable achievements of IITB sports"
+                        children: "Launch 'SpooFit', an innovative sports league that redefines conventional sports with a strategic and lighthearted twist like Foot Volley, Pickleball, Triunity Chess"
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "Not completed due to packed schedule owing to Inter-IIT ",
-                        children: "Launch the inaugural edition of Abhivyakti- Embracing our Heritage, to promote indigenous games like Pitto, Gilli-Danda in all the hostels and cultivate cultural pride among the students"
+                        reply: "Not started ",
+                        children: "Will be conducted in later part"
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: (0, Ne.jsx)("strong", {
-                        children: "Witness Fitness | "
+                        children: "Anyone Can Sport  | "
                     })
                 }), (0, Ne.jsx)(Rr, {
-                    children: "Fuelling your Fitness journey"
+                    children: "Drive Towards Inclusivity for all"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "Elevate fitness standards by pushing for a Fitness Club Manager to oversee gym and initiatives"
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply:"Discussions has taken place with a few of the sports officers. Will be conducted in later part of the tenure.",
+                        children: "Push for year-long training sessions ‘Novice Nook’ by coaches for beginners in all"
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "Mock GCs will be conducted at the end of the semester after all of the GCs",
-                        children: "Upraise a culture of fitness by introducing a mock Fitness GC to engage and motivate students"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "Get Set Fit sessions were revamped but fitness workshops were not conducted in hostels",
-                        children: "Revamp Get Set Fit sessions and host fitness workshops in hostels to promote healthier lifestyle"
+                        reply: "Workshop will be conducted in later half of October in association with Aavhan. iSURP projects haven't been completed.",
+                        children: "Foster academic-sport integration by pushing for seminars and academic courses on Sports Analytics and iSURP projects in collaboration with UGAC"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Work has not started for this initiative.",
+                        children: "Introduce Speakathon and Sport-o-Mania, sporting-based discussions and case competitions in sporting events igniting fresher perspectives for student engagement"
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: (0, Ne.jsx)("strong", {
-                        children: "Expanding Sporting Horizons | "
+                        children: "Honouring the Legacy | "
                     })
                 }), (0, Ne.jsx)(Rr, {
-                    children: " Towards Exponential growth"
+                    children: " Connecting through the years"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
-                        reply: "Hostel 7 grounds have been levelled",
-                        children: "Introduction of Archery, Skating and Handball to elevate enthusiasm, promote and diversify the council events in other sports by making use of the old swimming pool area and hostel 7 ground"
-                    }), (0, Ne.jsx)(Hr, {
-                        reply: "CCTV cameras have been installed in badminton court, new SAC and swimming pool",
-                        children: "Implement surveillance system through installation of CCTV cameras in key facilities of New SAC building, outside swimming pool, badminton courts, & indoor gymkhana grounds"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Setting up of portable mosquito repellent machines close to mosquito hotspots at sports venue"
-                    })]
-                }), (0, Ne.jsx)(kr, {
-                    children: "FACILITIES AND INFRASTRUCTURE"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
-                        reply: "Approval completed, open tendering in process",
-                        children: "Construct a Hammer-Discus throwing cage to elevate athletics safety standards and transform the tennis storeroom into changing rooms and set up an adequate storage facility for table tennis"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Upgrade Gymkhana facilities by resurfacing outdoor basketball courts and tennis courts, matting basketball poles, installing volleyball rebounder nets and synthetic flooring for table tennis court"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Initiate Wi-Fi facilities in new SAC to ensure efficient internet connectivity for events and meets"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Introduce a ground space for Frisbee to ensure involvement in the game and replace halide lamps with LED lights in outdoor gymkhana for efficient power consumption"
-                    })]
-                }), (0, Ne.jsx)(kr, {
-                    children: "INTER-IIT AND INSTITUTE TEAMS"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
-                        reply: "Will be done after midsemesters due to undergoing GC",
-                        children: "Champion's Circle - Recognising our Inter-IIT contingent by organising a felicitation ceremony"
-                    }), (0, Ne.jsx)(Hr, {
-                        reply: "An informal session and cake cutting was organised",
-                        children: "Conduct Wave Warriors to raise awareness and support for the Aquatics Inter IIT contingent"
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply: "In preliminary discussions with the Dean ACR",
+                        children: "Establish an exclusive alumni-driven gymkhana sports fund under the Dean-ACR office specifically dedicated to teams in every sport and to aid in their development"
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "Coach advertisement has been sent, will take 2-3 months",
-                        children: "Introduce NSO Frisbee programme to promote sports diversity and inclusivity among students"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "Can't take place due to Aavhan staggering the timeline",
-                        children: "Revitalise Pragati- consisting of intermediate camps across all sports, inspired by Prarambh"
-                    })]
-                }), (0, Ne.jsx)(kr, {
-                    children: "GIRLS SPORTS"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        reply: "Camps have been conducted in a few sports for female instizens",
-                        children: "Reduce the gender participation gap by incorporating institute-wide Mixed Sports Expedition throughout the year incorporating sports like hockey, basketball, football, and racket sports"
-                    }), (0, Ne.jsx)(Hr, {
-                        reply: "Girls team have gone for Sparsha,Udhghosh and local tournaments",
-                        children: "Boost team spirit and empower female sports teams via increased tournament representation"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "Can't happen due to complete staff quota",
-                        children: "Appoint a female gym trainer and swimming coach for accessibility and familiarity with facility"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "Not possible due to unavailabilty of space in female hostels",
-                        children: "Enhance cardiovascular health by organizing bi-monthly aerobics sessions in the girls' hostels"
-                    })]
-                }), (0, Ne.jsx)(kr, {
-                    children: "PG SPORTS"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "Conduct various beginner workshops during off-academic time culminating in PG Sports Mania"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "Not completed due to the lack of initiative taking by PG representatives and communication gap",
-                        children: "Revitalize and improve PG Sports Newsletter: Utsav for better institute-wide communication"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Conduct PG orientation during even semester to incorporate PGs & increase event participation"
-                    })]
-                }), (0, Ne.jsx)(kr, {
-                    children: "HOSTEL COORDINATION AND GC "
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
-                        reply: "Proposal has been sent for making",
-                        children: "Install GC Tally board in the New SAC to keep all students informed about hostel GC standings"
+                        reply: "Preparations are underway, will be in the last week of October",
+                        children: "Unveil the grand ‘Soirée des Alums’ - a nostalgia-filled alumni sports weekend,celebrating camaraderie through exhilarating exhibition matches and meet-n-greets"
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "Mock GCs will be conducted at the end of the semester after all of the GCs",
-                        children: "Propose a mock Pool GC for board game enthusiasts to showcase skills and engage strategically"
+                        reply:"The first video has been shot . The trailer has also been released, more videos will be shot in the future.",
+                        children: "Introduce 'Noir Chronicles', a captivating platform inviting players and alumni to weave their tales of sporting glory and experiences in the legacy of IITB sports"
                     }), (0, Ne.jsx)(Hr, {
-                        children: "Organize routine workshops for squash, hockey, athletics, and weightlifting to improve hostel players' skills and techniques for excelling in their respective sports before particular GC"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "Not undertaken due to poor gym facilities in several hostels",
-                        children: "Boost the fitness level of hostel residents by conducting regular gym workshops at hostel gyms"
-                    })]
-                }), (0, Ne.jsx)(kr, {
-                    children: "ASSISTANCE AND ENHANCEMENT"
-                }), (0, Ne.jsx)(Ar, {
-                    children: "Outreach:"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
-                        reply: "To be done this sem,half tenure video is complete",
-                        children: "Recap Rhapsody-relive the year's events, camps and Inter-IIT experience in a rewind video"
-                    }), (0, Ne.jsx)(Hr, {
-                        reply: "Has been done by respective secretaries of different sports which happens every year",
-                        children: "Introducing Sportswear Spectrum an exclusive range of merchandise lines for IITB Sports"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Launch digitized freshie sports handbook- Sporting Starters to publicise sports and inspire talent"
+                        reply:"",
+                        children: "Archive past Inter-IIT & GC records in IITB Sports App to preserve sports legacies"
                     })]
                 }), (0, Ne.jsx)(Ar, {
-                    children: "Institute Sports App:"
+                    children: (0, Ne.jsx)("strong", {
+                        children: "FACILITIES & INFRASTRUCTURE | "
+                    })
+                }), (0, Ne.jsx)(Rr, {
+                    children: " Building Bridges"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "Has been made,local testing is being done",
-                        children: "Digitize sports facilities and utilise the app to monitor occupancy of table tennis, badminton courts, gym, and pool to improve availability and avoid overcrowding during peak hours"
+                        reply: "The approval has been sent to the administration for the sandpit. The budget and approval for the other facilities will be done post monsoon.",
+                        children: "Push for construction of new sand pit, laying up of Tennis Ball Cricket pitches, surfacing of Basketball courts and installation of iron meshes near the Hockey field."
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "Has been done by the council, yet to be released",
-                        children: "Develop the sports app to include a racket sports ladder ranking and fantasy league portal, as well as a catalogue of sports facilities available in hostels and Gymkhana, for better accessibility"
+                        reply:"The approval has been sent to the administration.",
+                        children: "Push for transforming the existing hockey ground into an artificial turf facility and changing the swimming pool starting blocks to enhance safety and performance"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"The space for the shop has been approved, tender is to be floated. Speaker system wil be installed in squash courts.",
+                        children: "Follow up on the Sports Shop in New SAC & speaker system in the Squash Courts."
+                    })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: (0, Ne.jsx)("strong", {
+                        children: "NSO, INTER IIT & INSTITUTE TEAMS | "
+                    })
+                }), (0, Ne.jsx)(Rr, {
+                    children: " Achieving Excellence"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply: "Will be done during Inter IIT camp ",
+                        children: "FitFables: Present a revealing glimpse into the behind-the-scenes of the intense Inter-IIT training regime, highlighting players' dedication and coaches' expertise"
                     }), (0, Ne.jsx)(Hr, {
-                        children: "Efficiently integrate the Yearbook into the app, automate the process for athletes, and create a student tab featuring profiles showcasing the accomplishments and accolades of players"
+                        reply: "",
+                        children: "Initiate NSO Frisbee and Kabaddi programs for diversified engagement"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Contingent leaders have been selected and inter team workout session will be starting in October. Inter nso championship championship will take place later on in the tenure.",
+                        children: "Initiate Inter-NSO fitness championship & paired Inter-Team structured workout. sessions, along with bi-monthly friendly matches between our teams"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Will happen after Inter IIT",
+                        children: "Establish Blackcats of the Year, commemorating podium finishes, complimented by a perennial Hall of Fame honouring the Most Valuable Players, celebrating excellence every year"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Will happen after Inter IIT",
+                        children: "Host a reflective contingent High Tea to felicitate the returning sports’ performers"
+                    })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: (0, Ne.jsx)("strong", {
+                        children: "GIRLS' SPORTS | "
+                    })
+                }), (0, Ne.jsx)(Rr, {
+                    children: " EmpowHer"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply: "Session has been conducting during Girl's weight training workshop. More sessions, workshops will be conducted in the tenure.",
+                        children: "Launch bi-monthly Yoga workshops dedicated to effective menstrual pain relief"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "Request has been sent to the admin",
+                        children: "Push for a female gym trainer to address the needs of the female students on campus, and establish scheduled regular gym induction sessions for newcomers"
+                    }), (0, Ne.jsx)(Hr, {
+                        reply: "",
+                        children: "Conduct “Quincena’, a 14-day spanned workshop biannually including weight. training, self-defence and zumba for holistic development of female enthusiasts"
+                    })]
+
+
+                }), (0, Ne.jsx)(Ar, {
+                    children: (0, Ne.jsx)("strong", {
+                        children: "PG SPORTS & HOSTELS | "
+                    })
+                }), (0, Ne.jsx)(Rr, {
+                    children: " Fostering Community"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply:"Work is underway, will be conducted in October",
+                        children: "Debut the 'Skill Spectra Series' featuring diverse skill-tier mini-leagues alongside 'Sports Odyssey', an intro video promoting inclusivity for PG freshers"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Will be in conducted in later part of the tenure, after monsoon.",
+                        children: "Push for decentralised workshops in collaboration with hostel councils"
+                    })]
+
+
+                }), (0, Ne.jsx)(Ar, {
+                    children: (0, Ne.jsx)("strong", {
+                        children: "EVENTS & CLUBS | "
+                    })
+                }), (0, Ne.jsx)(Rr, {
+                    children: " Elevating Sports"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply: "Self defense workshop was conducted for girls.More sessions will be conducted in later part of the tenure",
+                        children: "Conduct a survival training workshop called ‘S.A.F.E. : Safety and Awareness’ For Excellence’ for emergency situation response"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Preliminary discussions and work have started for runner's club, the event will happen in January ",
+                        children: "Revive Cyclists’ Clubs and follow up on Runners’ Club to promote fitness and community engagement"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "Proposal had been sent, however the sport was rejected. Updated proposal sent subsequently.",
+                        children: "Sport of the Month: Reintroduce non-conventional sports & games like Fencing, GO, and Curling through workshops, cultivating diverse athletic exploration"
                     })]
                 }), (0, Ne.jsx)(kr, {
-                    children: "Follow UPs"
+                    children: "MANAGEMENT& OUTREACH | "
+                }), (0, Ne.jsx)(Ar, {
+                    children: "Operational Excellence"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "Expedite the construction of synthetic tracks, outdoor cricket net relocation, badminton courts and new SAC squash courts renovation to modernise and enhance the institute sporting facilities"
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply: "App has been made and is in the testing stage",
+                        children: "Follow up on digitalisation of venue booking process for events by displaying  dynamic court availability status on IITB Sports App to be launched on Play Store and App Store"
                     }), (0, Ne.jsx)(Hr, {
-                        children: "Build an outdoor gym to improve the facility's ventilation and promote fitness in the institute"
+                        reply: "",
+                        children: "Elevate IITB sports with a comprehensive handbook, addressing common queries through detailed facility information, vendor details and recommended equipments"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Work has not started for this initiative",
+                        children: "Revive prediction contests for world-wide sporting events to engage enthusiasts"
                     }), (0, Ne.jsx)(Hr, {
-                        children: "Pursue the height increment of football field fencing and levelling up of sand in long jump pits"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Follow up on movable cricket net cages, bowling machine, motorized roller, and lawn mower"
+                        children: "Implement a Weekend Convener Training Program that includes sessions on designing, video editing, and basic technical skills to enhance self-sufficiency"
                     })]
+
+                
                 }), (0, Ne.jsx)(kr, {
                     children: "OFF MANIFESTO POINTS"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Hr, {
-                        children: "Installation of dugouts in the cricket and football field"
+                        children: "Conduction of Contingent trek celebrating 100 days to Inter IIT"
                     }), (0, Ne.jsx)(Hr, {
-                        children: "Appointment of permanent physiotherapist in New Sac"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "Proposal has been sent for budget approval",
-                        children: "Proposal for construction of new cricket ground besides hostel 17"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "Proposal has been sent for budget approval",
-                        children: "Proposal for construction of hockey turf"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "Dedicated space has been allocated, tendering process is onway",
-                        children: "Establishment of sports equipment shop in New SAC"
+                        children: "Increase shoe subsidy by 100%"
                     })]
                 }), (0, Ne.jsx)($r, {
                     toShow: 0
@@ -10262,7 +10258,7 @@
                 }), (0, Ne.jsx)(Gr, {
                     name: "Hardi Desai",
                     manlink: "https://drive.google.com/file/d/1Xx5NtLBgWdACQ2GD1EtvJ2aeT5xFrBO9/view?usp=drive_link",
-                    imgsrc: "/shimpi.png",
+                    imgsrc: "/gsta.jpg",
                     chartsrc: "/tech.png",
                     por: "General Secretary Technical Affairs",
                     completed: 77.4,
@@ -11014,19 +11010,7 @@
                         reply: "Yoga room has been whitewashed and painted as of 2 October 2024.",
                         children: "Follow up on the refurbishment of the Old SAC Yoga Room, adding ambience, seating arrangement, bookshelves, and mic stands with adequate storage space to cater to the requirements of various clubs."
                     })]
-                    
-                }), (0, Ne.jsx)(Ar, {
-                    children: "MANAGEMENT | "
-                }), (0, Ne.jsx)(Rr, {
-                    children: "Augmenting Culturals"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
-                        reply: "The workshops were not week-long; they spanned three days. The first day focused on video editing, the second day on design skills, and the third day on soft skills. The workshops were conducted with the expectation of early convener selections but ended up being scheduled after midterms.",
-                        children: "Restructure the current convenor training program to a week-long workshop in design, video making & editing to make them self-sufficient to manage the constant workload of clubs"
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "This did not take place.",
-                        children: "Conduct monthly pan ICC town halls with conveners to increase transparency within the council"
-                    })]
+                
                 }), (0, Ne.jsx)($r, {
                     toShow: 0
                 }), (0, Ne.jsx)(qr, {
