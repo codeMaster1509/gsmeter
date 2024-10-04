@@ -10309,7 +10309,7 @@
                         children: "Establish branches of IEEE Societies in domains such as robotics and automation, power and energy, and vehicular technology to foster international networking opportunities."
                     }), (0, Ne.jsx)(Wr, {
                         reply:"The data has been collected for all tech teams, and other resources are also in place. The design is still in process",
-                        children: "Tech101Booldet: Create an infographic guide including tech team details, a roadmap to tech startups, job preparation resources, institute IP policy, and STP guidance"
+                        children: "Tech101 Booklet: Create an infographic guide including tech team details, a roadmap to tech startups, job preparation resources, institute IP policy, and STP guidance"
                     }), (0, Ne.jsx)(Ur, {
                         reply:"The council informed us that the list to order the books has been made and the book lending system is also ready, the gymkhana server is down so it can't be made live now. However, we are yet to receive any proofs for verification.",
                         children: "Put together a book lending system in TL to enrich the hobby of technical reading "
