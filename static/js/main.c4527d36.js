@@ -10303,7 +10303,7 @@
                         children: "Centralized Inventory : List all issuable inventory of various clubs on the ITC website with an integrated booking system to keep track of inventory borrowed."
                     }), (0, Ne.jsx)(Wr, {
                         reply: "The servers have been ordered from IoE funds, however they have not been delivered because of lack of proper space. Earlier, we decided to get the space in DESE building, but the HoD has changed and they are not allowing the space now.",
-                        children: "Push for setting up an accessible CPU cluster to boost the computational power available, thereby enabling and accelerating AI/ML and other simulation-based student projects."
+                        children: "Push for setting up an accessible GPU cluster to boost the computational power available, thereby enabling and accelerating AI/ML and other simulation-based student projects."
                     }), (0, Ne.jsx)(Ur, {
                         reply:"The council hasn't started the application process.",
                         children: "Establish branches of IEEE Societies in domains such as robotics and automation, power and energy, and vehicular technology to foster international networking opportunities."
@@ -10387,7 +10387,7 @@
                         children: "Conduct visits to Centres of Excellence and labs inside the institute as an extension to freshers' orientation to provide insights into advanced research and hands-on facilities"
                     }), (0, Ne.jsx)(Ur, {
                         reply:"Not started",
-                        children: "Ink and Think, Discussions on research papers and books to be conducted by pure science clubs to inculcate critical thinking and foster knowledge-sharing"
+                        children: "Ink and Think: Discussions on research papers and books to be conducted by pure science clubs to inculcate critical thinking and foster knowledge-sharing"
                     }), (0, Ne.jsx)(Hr, {
                         reply:"",
                         children: "TL Open Day for PG Freshers, providing a practical introduction to the diverse tools and resources available at Tinkerers' Lab"
@@ -10397,7 +10397,7 @@
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Ur, {
                         reply: "Not started",
-                        children: "Conduct Scientific Storytelling and Product Pitch boot camp for Inter lIT contingent to refine presentation and pitching skills, thus enhancing performance in final presentations"
+                        children: "Conduct Scientific Storytelling and Product Pitch boot camp for Inter IIT contingent to refine presentation and pitching skills, thus enhancing performance in final presentations"
                     }), (0, Ne.jsx)(Ur, {
                         reply: "Not started",
                         children: "Push for post-Inter IIT relationship building with companies providing PS to give further opportunities to participating members, such as internships and workshops "
