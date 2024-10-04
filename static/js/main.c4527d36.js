@@ -10371,7 +10371,7 @@
                         children: "Follow up with Dean R&D, ACR to seek opportunities for CSR support for tech teams"
                     }), (0, Ne.jsx)(Ur, {
                         reply:"Orientation will be held in November",
-                        children: "Organise STPC Orkatation to increase awareness about the program and thereby enable more number of teams focusing on competition participation"
+                        children: "Organise STPC Orientation to increase awareness about the program and thereby enable more number of teams focusing on competition participation"
                     }), (0, Ne.jsx)(Wr, {
                         reply:"The council informed us Autodesk softwares will be provided to the teams. However, we are yet to receive any proofs for verification.",
                         children: "Collaborate with companies to provide free professional software access to tech teams"
