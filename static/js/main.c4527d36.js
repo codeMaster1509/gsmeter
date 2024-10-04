@@ -10109,8 +10109,8 @@
                     }), (0, Ne.jsx)(Hr, {
                         children: "Launch 'SpooFit', an innovative sports league that redefines conventional sports with a strategic and lighthearted twist like Foot Volley, Pickleball, Triunity Chess"
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "Not started ",
-                        children: "Will be conducted in later part"
+                        reply: "Will be conducted in later part",
+                        children: "Move towards the goal of Net Zero Sporting Events by players planting saplings post events, in collaboration with NSS and Sustainability Cell"
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: (0, Ne.jsx)("strong", {
@@ -10291,114 +10291,136 @@
                     imgsrc: "/gsta.jpg",
                     chartsrc: "/tech.png",
                     por: "General Secretary Technical Affairs",
-                    completed: 77.4,
-                    notstarted: 0,
-                    Ongoing: 22.6,
+                    completed: 13.3,
+                    notstarted: 43.3,
+                    Ongoing: 43.3,
                     unclear: 0
                 }), (0, Ne.jsx)(Br, {}), (0, Ne.jsx)(Ar, {
-                    children: "TINKERERS\u2019 LABORATORY"
+                    children: "Inventory & Resources"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "TL Funds - Increase the frequency of Alumni pitches to procure more funds for the TL"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "TL Inventory - Develop an inventory management system in TL with to maintain a proper database of the inventory available"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "TL Infrastructure - Push for setting up Project showcasing stand, Trophy stand which defines the glory of the tech culture in the institute"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "ChemE TL - Encourage interdisciplinary collaboration and innovation in underexplored domains, such as BioX, Chemistry, and Energy, through events and well-stocked labs"
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply:"The council informed insight that booking system is completed and the inventory is also compiled. However as the Gymkhana server is down from some days, we can't push the code to make it live. We are yet to receive any proofs for verification.",
+                        children: "Centralized Inventory : List all issuable inventory of various clubs on the ITC website with an integrated booking system to keep track of inventory borrowed."
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "The servers have been ordered from IoE funds, however they have not been delivered because of lack of proper space. Earlier, we decided to get the space in DESE building, but the HoD has changed and they are not allowing the space now.",
+                        children: "Push for setting up an accessible CPU cluster to boost the computational power available, thereby enabling and accelerating AI/ML and other simulation-based student projects."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply:"The council hasn't started the application process.",
+                        children: "Establish branches of IEEE Societies in domains such as robotics and automation, power and energy, and vehicular technology to foster international networking opportunities."
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"The data has been collected for all tech teams, and other resources are also in place. The design is still in process",
+                        children: "Tech101Booldet: Create an infographic guide including tech team details, a roadmap to tech startups, job preparation resources, institute IP policy, and STP guidance"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply:"The council informed us that the list to order the books has been made and the book lending system is also ready, the gymkhana server is down so it can't be made live now. However, we are yet to receive any proofs for verification.",
+                        children: "Put together a book lending system in TL to enrich the hobby of technical reading "
                     })]
                 }), (0, Ne.jsx)(Ar, {
-                    children: "TECHNICAL PROJECTS & RESOURCES"
+                    children: "Projects & Competitions"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "Tech for Social Good - Push for procuring techno-social projects from various industries and departments like CTARA for an overall betterment of society"
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply:"Council informd Insight that teams have been made for SiH, IQC; WnCC will soon hold a session about ICPC; No progress about Climate science olympiad. However, we are yet to receive any proofs for verification.",
+                        children: " Encourage formation of teams consisting of club members and enthusiasts to participate in quizzing competitions, and hackathons such as the Climate Science Olympiad, ICPC, IQC"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Not started",
+                        children: "Push for a one-stop Institute Projects Portal consolidating project applications and documentation from various channels such as clubs, professors, institute alumni, and CoEs"
                     }), (0, Ne.jsx)(Hr, {
-                        reply: "The equipment has been procured and is even available for the student to utilise anytime, whenever required, with permission from the stakeholders, as certain minimum skills need to be met before using these equipments because they are heavy and expensive equipment. We have also got temporary space for setting up these equipments, and it will be shifted to the permanent space (the New DSSE building which is being constructed where the floor plan is already ready and space is allocated for all these labs)",
-                        children: "Tech Zone - Procure equipment and make them available to all the students where they can experiment with emerging technologies, such as AI, AR/VR, blockchain, and IoT"
+                        reply: "Established brownie points for ITSP projects involving social entrepreneurship. Have not been publicised as the brand 'Sahaay'",
+                        children: "Sahaay Projects: A line of projects in ITSP dedicated to helping the specially-abled, elderly, and a society with outreach support from bodies like Abhyuday and Hostel Affairs Council"
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "The website is ready to be hosted (we have done the local hosting), but just due to some Gymkhana server issue, we are not able to make it online. We have tried using multiple technologies for the website, but the issue persists in all of them. Firstly, the website was made using Nest.JS, but then the server issue came up, so the team again tried using \u201cReact\u201d for the same website, but the issue still remained the same from the server side. ",
-                        children: "Create an Institute Technical Summer Activities (ITSA) website to streamline the ITSP process and maintain an online repository with ITSP, SoC, and SOS documentation"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Reconstruct Technovation with DSSE to provide personalized mentorship, workshops, and resources for student projects fostering a culture of innovation and tech entrepreneurship"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Collaborate with Dean R&D to foster innovation by organizing a large-scale Tech R&D Expo with the involvement of big companies to scale up projects and provide growth opportunities"
+                        reply:"Collected the IPs list from Dean R&D's office, still seeking permission from faculties to use those IPs",
+                        children: "Collaborate with faculty to take existing IPs and bring in students to find a product-market fit"
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "Emphasized getting more women speakers at council events. We also conducted a WiSE workshop for female students, which was a hands-on rover-building session. A calendar is being compiled for all female opportunities, which will be launched soon",
-                        children: "Revamp the WISE program to empower and promote women in science and engineering by providing talks, mentorship, and resources to create a supportive environment for their success"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Organize ITSP Bootcamps to provide a basic understanding of various tech domains to students"
+                        reply: "Council informed Insight that zero Waste has been established, and they are working with sustainability cell to effectively process the mess waste in biogas plant. However, we are yet to receive any proofs for verification.",
+                        children: "Follow up on Team Zero Waste to work on projects towards attaining IGBC Net-Zero Campus status and further take support from Sustainability Cell to help implement in hostels"
                     })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: "TECH FOR INSTI																				"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply: "Preparations have been made, will be made public in the GC opening ceremony",
+                        children: "Prepare detailed guidelines for hostel tech rooms that include a tentative GC calendar, minimum inventory list, and a tentative budget to receive early funding approval "
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Council informed Insight that the clubs have agreed to introduce these GCs, but details and PS are yet to be decided However, we are yet to receive any proofs for verification.",
+                        children: "Introduce new GCs in emerging domains like Quant, Game Development, Blockchain, Product Design to align with recent Inter IIT problem statements"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply:"Not started",
+                        children: " Push for cooperation with all institute bodies to provide data for a refined generative InstiGPT model to answer doubts and trivia in an easily navigable manner"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"InstiX trying to collaborate with CSO for the security system",
+                        children: 'Popularise the "Made by ITC" brand on projects taken up by bodies such as InstiX, Sandbox in collaboration with institute bodies like the Sports Council and the Hostel Affairs Council'
+                    })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: "COMMUNITY BUILDING"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply: "Ongoing/completed to some extent",
+                        children: "Take forward WISE with a booklet and social media series to spread awareness about job opportunities, scholarships, competitions from various organizations targeted towards women."
+                    }), (0, Ne.jsx)(Ur, {
+                        reply:"Not started",
+                        children: " Conduct Science Fair alongside Tech R&D Expo with live experiments and interactive zones to give more recognition and reach to pure science clubs"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply:"Not started",
+                        children: "Introduce Tech Discussion Forum on InstiApp to promote open discussion on topics such as tech intern experiences, tech resource recommendations, & opinions on tech-related products "
+                    })]
+
                 }), (0, Ne.jsx)(Ar, {
                     children: "TECH TEAMS"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "Organize a mini-expo during tech team orientation for showcasing the work of current tech teams to inspire and encourage freshmen to participate"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "We have conducted climate change awareness events; the Energy Swaraj was one of them; climate clocks were assembled and will be put up across institute soon. We also have introduced GFI's Alt Protein student chapter in Mumbai to educate the community about the sustainable protein movement. ",
-                        children: "Create a comprehensive database of technical facilities in the institute with details on access, required training, and time slots to ensure efficient utilization by students and tech teams"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Organize closed community sessions and group discussions led by industry leaders to equip tech teams with real-life knowledge and current innovations"
-                    })]
-                }), (0, Ne.jsx)(Ar, {
-                    children: "TECH FOR INSTI (DEVCOM + INSTIX) & HOSTEL TECH"
-                }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "We have conducted climate change awareness events; the climate clock was one of them; these clocks will be put up at different places on campus.",
-                        children: "Push for Green Campus programs through food waste and energy management projects to promote sustainability in hostels"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Introduce Genre Cups to technical GC, with a diverse range of technical genre like coding, robotics, hardware, and award winning hostels of each genre with a genre cup"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Create a Hostel GC portal with live dashboard, detailed information for each technical genre, and updated rankings for transparency and competitiveness in InstiApp"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Conduct a Hostel Case Study GC with a structured format spanning over a semester, involving problem identification, solution design, and four checkposts to promote out-of-the-box thinking"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Add competition-based GCs that encompass various non-core Inter IIT domains, including product management, supply chain, tech entrepreneurship in technical GC"
-                    })]
-                }), (0, Ne.jsx)(Ar, {
-                    children: "TECH CLUBS"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "Follow up on Tech Mentors: An initiative to help freshmen explore and navigate institute technical opportunites and assist them in developing their technical skills"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Enhance the AI community with a major focus on NLP, CV, and RL to promote the development of advanced AI technologies and solutions"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Reinstate convener camp as Tech Carnival showcasing diverse initiatives through interactive display, demos, workshops, and competitions"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Expand the current scope of DIY projects to encompass all the clubs to promote the culture of Do-It-Yourself among students in the institute"
-                    })]
-                }), (0, Ne.jsx)(Ar, {
-                    children: "INTER-IIT TECH MEET"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        reply: "Conducted a Quant Bootcamp and other hackathons (1 week LLM Bootcamp in collaboration with Pathway, Blockchain workshop in collaboration with Filecoin, Regular CP contest on Leetcode, Codeforces and Codechef) were also conducted keeping Inter IIT in mind; there were plans of hardware hackathons which were dropped off because  IIT Madras dropped off those domains",
-                        children: "Launch Intra IIT competitions based on specific segments of past Inter IIT competitions and organise advance bootcamps to prepare students for the event and promote technical skills."
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Revamp a video and blog series called InterIIT Diaries featuring past participants' experiences to raise awareness about Inter IIT and inspire more students to participate"
+                        reply:"Meetings with alumni contacted through Dean ACR has been done, and they agreed to fund the tech teams for funding travel",
+                        children: "Follow up with Dean R&D, ACR to seek opportunities for CSR support for tech teams"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply:"Orientation will be held in November",
+                        children: "Organise STPC Orkatation to increase awareness about the program and thereby enable more number of teams focusing on competition participation"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"The council informed us Autodesk softwares will be provided to the teams. However, we are yet to receive any proofs for verification.",
+                        children: "Collaborate with companies to provide free professional software access to tech teams"
+                    }), (0, Ne.jsx)(Wr, {
+                        reply:"We are yet to receive any proofs for verification.",
+                        children: "Put together an exhaustive list of IIT Bombay-registered vendors to reduce reimbursement bottlenecks "
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "PG TECH"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "The website is in the development phase with the backend, which is the major portion of the website being ready; just the UI needs to be finalized. This is getting delayed because the web team is rigorously working on multiple projects at a time. This will be completed by the end of March. ",
-                        children: "Integrate PG Tech Forum with InstiWiki where PG students from different technical disciplines can come together to discuss and exchange ideas on the latest technical advancements and innovations"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "This will be launched in the next 2 weeks as the content is ready but the final compilation and designing part is being done.",
-                        children: "Launch a PG-centric newsletter to promote awareness and participation in technical activities beyond research organized by various tech teams and hobby clubs"
+                        reply: "The list of centres has been compiled but the visit to centres is left",
+                        children: "Conduct visits to Centres of Excellence and labs inside the institute as an extension to freshers' orientation to provide insights into advanced research and hands-on facilities"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply:"Not started",
+                        children: "Ink and Think, Discussions on research papers and books to be conducted by pure science clubs to inculcate critical thinking and foster knowledge-sharing"
+                    }), (0, Ne.jsx)(Hr, {
+                        reply:"",
+                        children: "TL Open Day for PG Freshers, providing a practical introduction to the diverse tools and resources available at Tinkerers' Lab"
                     })]
                 }), (0, Ne.jsx)(Ar, {
-                    children: "MISCELLANEOUS"
+                    children: "INTER - IIT TECH MEET"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Ur, {
+                        reply: "Not started",
+                        children: "Conduct Scientific Storytelling and Product Pitch boot camp for Inter lIT contingent to refine presentation and pitching skills, thus enhancing performance in final presentations"
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Not started",
+                        children: "Push for post-Inter IIT relationship building with companies providing PS to give further opportunities to participating members, such as internships and workshops "
+                    })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: "ALUMNI OUTREACH"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Hr, {
-                        children: "Conduct Open Source events to promote contributions to open source projects like instiApp, gymkhana SSO login to increase the awareness of GSOC"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "The tender for the digital noticeboards has been released, and locations for setting up these digital notice boards have been finalized in collaboration with the Hostel Affairs Council.",
-                        children: "Implements different ways for publicising events like digital notice boards which help in saving paper wastage and a sustainable approach"
+                        reply: "Compiled the list of alumni willing to collaborate with the tech teams",
+                        children: "Establish an alumni database and enable a targeted approach for them to join in as technical advisors to relatively new and developing tech teams and tech communities "
+                    }), (0, Ne.jsx)(Ur, {
+                        reply: "Not started",
+                        children: "ITC Newsletter: Send out a biannual newsletter to alumni about tech teams and technical achievements, TL projects and ITSP to enhance outreach and alumni engagement "
+                    })]
+                }), (0, Ne.jsx)(Ar, {
+                    children: "MANAGERIAL REFORMS"
+                }), (0, Ne.jsxs)(Or, {
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply:"Ongoing/completed to some extent",
+                        children: "ITC Charter: Define the objectives and functions of each entity under ITC, ensuring clarity, and coherence within the team to avoid domain clashes and foster a holistic vision"
                     }), (0, Ne.jsx)(Hr, {
-                        children: "Follow up on setting up infrastructure for media team like camera, tripods, laptops and working space to ensure proper publicity of each club"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Organise field visits to give industrial and real-life technical exposure to the students"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Follow up on building infrastructure of STAB room including cupboards for inventory of clubs, Wi-Fi, mats, and other essential facilities to provide an optimal environment for students"
+                        reply: "",
+                        children: "Procure an advance budget from the institute based on documentation of expected team-wise expenses in ITSP after the first review meet to minimize reimbursement delays "
                     })]
                 }), (0, Ne.jsx)($r, {
                     toShow: 0
