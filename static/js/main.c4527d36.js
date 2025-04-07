@@ -10771,27 +10771,27 @@
                     imgsrc: "/gsha.jpg",
                     por: "General Secretary Hostel Affairs",
                     chartsrc: "/hostel.png",
-                    completed: 23.3,
+                    completed: 33.3,
                     notstarted: 16.7,
-                    Ongoing: 60.0,
+                    Ongoing: 50.0,
                     unclear: 0
                 }), (0, Ne.jsx)(Br, {}), (0, Ne.jsx)(Ar, {
                     children: "Eateries and Mess"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply:"It will be constructed in the H14 extension as part of a bigger project in the area.",
+                        reply:"Can't se started until the construction of the new wing is completed. Institute is focusing on doing other things now so this is not being pursued right now.",
                         children: "Push for the establishment of a New Mess facility between Hostel 13 & 14"
                     }), (0, Ne.jsx)(Hr, {
-                        reply:"Vending machines have been installed and are operational in several hostels; have been approved for academic areas and the process is underway.",
+                        reply:"Vending machines have been installed and are operational in several hostels and departments.",
                         children: "Install 24x7 Vending Machines along with remote purchasing via a mobile application for snacks, beverages, & healthy options in hostel & academic area"
                     }), (0, Ne.jsx)(Hr, {
-                        reply:"The construction is underway. The tender has been floated and vendors are applying; it should be operational in November",
+                        reply:"The food court is operational.",
                         children: "Follow up on the completion of the LHC Food Court featuring charging outlets, refreshments, & seating area for students to relax in between classes"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply:"Amul has been given permission for a dairy shop, on-ground work to be started by mid-october.",
+                    }), (0, Ne.jsx)(Hr, {
+                        reply:"On ground work has started, leveling of ground is being done right now.",
                         children: "Set up a new store selling day-to-day Dairy Products to promote healthy snacking"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"Ongoing/completed to some extent",
+                        reply:"Gymkhana portal being down hindering work",
                         children: "Follow up on the implementation of a centralized Institute Eateries Portal to integrate & streamline ordering from various canteens across the institute"
                     }), (0, Ne.jsx)(Wr, {
                         reply:"The council is in talks with potential vendors ",
@@ -10806,31 +10806,35 @@
                     }), (0, Ne.jsx)(Ur, {
                         reply:"The talks have been initiated with the startup but they would need to do some research",
                         children: "Introduce the concept of Battery Replacement with spare charged batteries to increase overall on-road availability of E-Shuttles in addition of new routes"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply:"Installation of signage boards has been done, the rest however is still in works. In hostel areas, traffic roadway markings will be done after hostel construction.",
+                    }), (0, Ne.jsx)(Hr, {
+                        reply:"Installation of signage boards has been done, and convex mirrors have also been installed.",
                         children: "Increase campus road safety by installing convex mirrors, follow up on safety signage boards, traffic roadway markings on all roads of the institute"
                     })]
-                }), (0, Ne.jsx)(Ar, {
-                    children: "Transparency and Accountability"
-                }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        children: "Publish minutes of HGSC, Network and computing, Maintenance-Mess Committee meetings"
-                    }), (0, Ne.jsx)(Hr, {
-                        children: "Follow up on setting up of the Student grievance cell (develop a portal for addressing issues with feedback)"
-                    }), (0, Ne.jsx)(Wr, {
-                        children: "Follow up on the formation of the hostel constitution"
-                    })]
-                }), (0, Ne.jsx)(Ar, {
+                }), 
+                           
+                //            (0, Ne.jsx)(Ar, {
+                //     children: "Transparency and Accountability"
+                // }), (0, Ne.jsxs)(Or, {
+                //     children: [(0, Ne.jsx)(Hr, {
+                //         children: "Publish minutes of HGSC, Network and computing, Maintenance-Mess Committee meetings"
+                //     }), (0, Ne.jsx)(Hr, {
+                //         children: "Follow up on setting up of the Student grievance cell (develop a portal for addressing issues with feedback)"
+                //     }), (0, Ne.jsx)(Wr, {
+                //         children: "Follow up on the formation of the hostel constitution"
+                //     })]
+                // }), 
+                           
+                           (0, Ne.jsx)(Ar, {
                     children: "HOSPITAL & PUBLIC HEALTH"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
-                        reply:"A committee has been formed to overlook the digitalisation of the hospital, PoA and vendor has been finalized.",
+                    children: [(0, Ne.jsx)(Hr, {
+                        reply:"The tender has been floated, scribers have been hired and they are converting files.",
                         children: "Follow up on Digital Appointments, Health Management Information Systems & Digital Prescriptions by pushing for IIT Bombay Hospital digitalization"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"Ongoing/completed to some extent",
+                        reply:"Ongoing",
                         children: "Follow up on the installation of Sanitary Pad Vending Machines & Hand Dryers at major areas in the institute and Incinerator Machines for their safe disposal"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"Ongoing/completed to some extent",
+                        reply:"No progress due to networks of gymkhana servers being down.",
                         children: "Push for completion of PHO Digitalization to streamline room cleaning request, cleanliness verification of hostel areas, common areas & raising sanitation complaints"
                     }), (0, Ne.jsx)(Ur, {
                         reply:"The council is in liaison with the administration to follow up on this.",
@@ -10846,73 +10850,73 @@
                         reply:"For 12-13-14 redevelopment project is in the works and new cycle shop will be made there; further the H3 repair shop space willl be redeveloped and the new vendor has been finalized.",
                         children: "Establish a new Cycle Repair Shop near H12-13-14 to cater to needs of the students"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"Ongoing/completed to some extent",
+                        reply:"Ongoing",
                         children: "Propose the establishment of a Centralized Laundry Service to cater to general & special needs of people like dry cleaning, suction cleaning, & steam cleaning"
                     }), (0, Ne.jsx)(Hr, {
                         reply: "A portal where the waitlist can also be seen is live.",
                         children: "Follow up on the implementation of Married Research Scholar Portal to ease the flat allotment process for married PhD students"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"Ongoing/completed to some extent",
+                        reply:"Ongoing",
                         children: "Push for the integration of various hostel affairs related portals with MyIITB for centralized access"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"Ongoing/completed to some extent",
+                        reply:"Ongoing",
                         children: "Promote the adoption of the AMS & establish new digital workflows to streamline standard procedures & permission processes in major institute offices"
                     }), (0, Ne.jsx)(Wr, {
                         reply:"The tender is being worked on. The space has been constructed.",
                         children: "Follow up on establishing a new Hair Salon for institute populous"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"It is being constructed in parts of the institute, starting with H1. Two automatic doors have been installed",
+                        reply:"Ramps have been constructed in DESE, H1 and Reading Hall. No special needs washroom has been constructed yet.",
                         children: "Push for establishing more Inclusive Infrastructure like ramps, handrails, automatic doors, special needs washrooms to aid student ease & mobility"
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "SECURITY"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Ur, {
-                        reply:"Not started",
+                        reply:"Not yet started",
                         children: "Propose the monitoring of vehicle entry-exit by introducing License Plate Scanning System to record vehicle details and maintain an accessible digital database"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"Ongoing/completed to some extent",
+                        reply:"Mock safety drills have been performed in all big hostels, but alarms and PA systems are not functional in all hostels yet",
                         children: "Ensure Emergency Alarm & PA Systems are installed & running for all hostels and Mock Safety Drills are conducted for early evacuation in case of hazardous situations"
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "SUSTAINABLE & AESTHETIC CAMPUS"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply:"The proposal has been approved by A Dean SA",
+                        reply:"This was unsuccesful due to maintenance issues with the machinery.",
                         children: "Implement a Water Overflow Protection System to reduce wastage in water tanks."
                     }), (0, Ne.jsx)(Hr, {
-                        reply:"There is a proposal to write hostel names through bushes",
+                        reply:"Digital display boards have been installed and boathouse has been renovated.",
                         children: "Follow up on the installation of Digital Display Boards at various locations within the institute and Boathouse Renovation for institute beautification"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply:"Ongoing/completed to some extent",
+                    }), (0, Ne.jsx)(Hr, {
+                        reply:"There was a plantation drive in swachhata pakhwada, a sculpture has been built in front of SOM",
                         children: "Propose the construction of aesthetic structures like Sculptures, Vertical Gardens while promoting Plantation Drive to beautify the existing campus infrastructure"
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "Miscellaneous"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Hr, {
-                        reply:"Tender has been floated. Vendors will be finalized before end-sems.",
+                    children: [(0, Ne.jsx)(Wr, {
+                        reply:"Completed to some extent. It is functional in Hostel 9, 16 and Tansa. ",
                         children: "Follow up with hostel 9, 11, 17, 18 & Tansa councils to set up night canteens"
                     }), (0, Ne.jsx)(Hr, {
                         children: "Draft a new Handbook to include procedures & duties of EMD, Estate department, & PHO to ensure greater accountability & procedural awareness"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"The construction has already begun, was halted because of monsoons",
+                        reply:"Construction for the Umbrella Project has started, but cycle stands and sheds are yet to be built.",
                         children: "Push for the execution of Umbrella Project consisting of road & cycle track renovation and follow up on the construction of Cycle Stand & Shed in each hostel"
                     }), (0, Ne.jsx)(Hr, {
-                        reply:"Completed in some hostels already",
+                        reply:"Completed",
                         children: "Push for the expansion of IITB Wireless coverage to all hostels"
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "Off Manifesto Points"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply:"Ongoing/completed to some extent",
+                        reply:"Ongoing",
                         children: "Establish dedicated EV stops with sheds to support sustainable transport and convenience"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply:"Ongoing/completed to some extent",
+                    }), (0, Ne.jsx)(Hr, {
+                        reply:"Dustbin holders have been installed",
                         children: "Install dustbin holders in all hostels to prevent dustbin tumbling, ensuring better stability and hence cleanliness"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"Ongoing/completed to some extent",
+                        reply:"It is ongoing under the Umbrella Project",
                         children: "Develop aesthetic seating areas for general discussions, enhancing campus interaction and visual appeal."
                     }),(0, Ne.jsx)(Hr, {
                         children: "Organising open house meetings in Hostels"
