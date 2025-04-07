@@ -10291,14 +10291,14 @@
                     imgsrc: "/gsta.jpg",
                     chartsrc: "/tech.png",
                     por: "General Secretary Technical Affairs",
-                    completed: 13.3,
-                    notstarted: 43.3,
-                    Ongoing: 43.3,
+                    completed: 33.3,
+                    notstarted: 33.3,
+                    Ongoing: 33.3,
                     unclear: 0
                 }), (0, Ne.jsx)(Br, {}), (0, Ne.jsx)(Ar, {
                     children: "Inventory & Resources"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
+                    children: [(0, Ne.jsx)(Hr, {
                         reply:"The council informed insight that booking system is completed and the inventory is also compiled. However as the Gymkhana server is down from some days, we can't push the code to make it live. We are yet to receive any proofs for verification.",
                         children: "Centralized Inventory : List all issuable inventory of various clubs on the ITC website with an integrated booking system to keep track of inventory borrowed."
                     }), (0, Ne.jsx)(Wr, {
@@ -10317,7 +10317,7 @@
                 }), (0, Ne.jsx)(Ar, {
                     children: "Projects & Competitions"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Ur, {
+                    children: [(0, Ne.jsx)(Wr, {
                         reply:"Council informd Insight that teams have been made for SiH, IQC; WnCC will soon hold a session about ICPC; No progress about Climate science olympiad. However, we are yet to receive any proofs for verification.",
                         children: " Encourage formation of teams consisting of club members and enthusiasts to participate in quizzing competitions, and hackathons such as the Climate Science Olympiad, ICPC, IQC"
                     }), (0, Ne.jsx)(Ur, {
@@ -10336,7 +10336,7 @@
                 }), (0, Ne.jsx)(Ar, {
                     children: "TECH FOR INSTI																				"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
+                    children: [(0, Ne.jsx)(Hr, {
                         reply: "Preparations have been made, will be made public in the GC opening ceremony",
                         children: "Prepare detailed guidelines for hostel tech rooms that include a tentative GC calendar, minimum inventory list, and a tentative budget to receive early funding approval "
                     }), (0, Ne.jsx)(Ur, {
@@ -10366,16 +10366,16 @@
                 }), (0, Ne.jsx)(Ar, {
                     children: "TECH TEAMS"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
+                    children: [(0, Ne.jsx)(Hr, {
                         reply:"Meetings with alumni contacted through Dean ACR has been done, and they agreed to fund the tech teams for funding travel",
                         children: "Follow up with Dean R&D, ACR to seek opportunities for CSR support for tech teams"
-                    }), (0, Ne.jsx)(Ur, {
+                    }), (0, Ne.jsx)(Hr, {
                         reply:"Orientation will be held in November",
                         children: "Organise STPC Orientation to increase awareness about the program and thereby enable more number of teams focusing on competition participation"
                     }), (0, Ne.jsx)(Wr, {
                         reply:"The council informed us Autodesk softwares will be provided to the teams. However, we are yet to receive any proofs for verification.",
                         children: "Collaborate with companies to provide free professional software access to tech teams"
-                    }), (0, Ne.jsx)(Wr, {
+                    }), (0, Ne.jsx)(Hr, {
                         reply:"We are yet to receive any proofs for verification.",
                         children: "Put together an exhaustive list of IIT Bombay-registered vendors to reduce reimbursement bottlenecks "
                     })]
@@ -10385,7 +10385,7 @@
                     children: [(0, Ne.jsx)(Wr, {
                         reply: "The list of centres has been compiled but the visit to centres is left",
                         children: "Conduct visits to Centres of Excellence and labs inside the institute as an extension to freshers' orientation to provide insights into advanced research and hands-on facilities"
-                    }), (0, Ne.jsx)(Ur, {
+                    }), (0, Ne.jsx)(Hr, {
                         reply:"Not started",
                         children: "Ink and Think: Discussions on research papers and books to be conducted by pure science clubs to inculcate critical thinking and foster knowledge-sharing"
                     }), (0, Ne.jsx)(Hr, {
