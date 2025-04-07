@@ -10108,7 +10108,7 @@
                         children: "Conduct fitness oriented body scans on National Sports Day, coupled with awareness camps to focus on injury prevention and conditioning"
                     }), (0, Ne.jsx)(Hr, {
                         children: "Launch 'SpooFit', an innovative sports league that redefines conventional sports with a strategic and lighthearted twist like Foot Volley, Pickleball, Triunity Chess"
-                    }), (0, Ne.jsx)(Ur, {
+                    }), (0, Ne.jsx)(Hr, {
                         reply: "Will be conducted in later part",
                         children: "Move towards the goal of Net Zero Sporting Events by players planting saplings post events, in collaboration with NSS and Sustainability Cell"
                     })]
@@ -10119,13 +10119,13 @@
                 }), (0, Ne.jsx)(Rr, {
                     children: "Drive Towards Inclusivity for all"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Ur, {
+                    children: [(0, Ne.jsx)(Wr, {
                         reply:"Discussions has taken place with a few of the sports officers. Will be conducted in later part of the tenure.",
                         children: "Push for year-long training sessions ‘Novice Nook’ by coaches for beginners in all"
                     }), (0, Ne.jsx)(Wr, {
                         reply: "Workshop will be conducted in later half of October in association with Aavhan. iSURP projects haven't been completed.",
                         children: "Foster academic-sport integration by pushing for seminars and academic courses on Sports Analytics and iSURP projects in collaboration with UGAC"
-                    }), (0, Ne.jsx)(Ur, {
+                    }), (0, Ne.jsx)(Wr, {
                         reply: "Work has not started for this initiative.",
                         children: "Introduce Speakathon and Sport-o-Mania, sporting-based discussions and case competitions in sporting events igniting fresher perspectives for student engagement"
                     })]
@@ -10139,10 +10139,10 @@
                     children: [(0, Ne.jsx)(Ur, {
                         reply: "In preliminary discussions with the Dean ACR",
                         children: "Establish an exclusive alumni-driven gymkhana sports fund under the Dean-ACR office specifically dedicated to teams in every sport and to aid in their development"
-                    }), (0, Ne.jsx)(Wr, {
+                    }), (0, Ne.jsx)(Hr, {
                         reply: "Preparations are underway, will be in the last week of October",
                         children: "Unveil the grand ‘Soirée des Alums’ - a nostalgia-filled alumni sports weekend,celebrating camaraderie through exhilarating exhibition matches and meet-n-greets"
-                    }), (0, Ne.jsx)(Wr, {
+                    }), (0, Ne.jsx)(Hr, {
                         reply:"The first video has been shot . The trailer has also been released, more videos will be shot in the future.",
                         children: "Introduce 'Noir Chronicles', a captivating platform inviting players and alumni to weave their tales of sporting glory and experiences in the legacy of IITB sports"
                     }), (0, Ne.jsx)(Hr, {
@@ -10173,19 +10173,19 @@
                 }), (0, Ne.jsx)(Rr, {
                     children: " Achieving Excellence"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Ur, {
+                    children: [(0, Ne.jsx)(Hr, {
                         reply: "Will be done during Inter IIT camp ",
                         children: "FitFables: Present a revealing glimpse into the behind-the-scenes of the intense Inter-IIT training regime, highlighting players' dedication and coaches' expertise"
                     }), (0, Ne.jsx)(Hr, {
                         reply: "",
                         children: "Initiate NSO Frisbee and Kabaddi programs for diversified engagement"
-                    }), (0, Ne.jsx)(Ur, {
+                    }), (0, Ne.jsx)(Wr, {
                         reply: "Contingent leaders have been selected and inter team workout session will be starting in October. Inter nso championship championship will take place later on in the tenure.",
                         children: "Initiate Inter-NSO fitness championship & paired Inter-Team structured workout. sessions, along with bi-monthly friendly matches between our teams"
-                    }), (0, Ne.jsx)(Ur, {
+                    }), (0, Ne.jsx)(Wr, {
                         reply: "Will happen after Inter IIT",
                         children: "Establish Blackcats of the Year, commemorating podium finishes, complimented by a perennial Hall of Fame honouring the Most Valuable Players, celebrating excellence every year"
-                    }), (0, Ne.jsx)(Ur, {
+                    }), (0, Ne.jsx)(Hr, {
                         reply: "Will happen after Inter IIT",
                         children: "Host a reflective contingent High Tea to felicitate the returning sports’ performers"
                     })]
@@ -10231,13 +10231,13 @@
                 }), (0, Ne.jsx)(Rr, {
                     children: " Elevating Sports"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
+                    children: [(0, Ne.jsx)(Hr, {
                         reply: "Self defense workshop was conducted for girls.More sessions will be conducted in later part of the tenure",
                         children: "Conduct a survival training workshop called ‘S.A.F.E. : Safety and Awareness’ For Excellence’ for emergency situation response"
                     }), (0, Ne.jsx)(Ur, {
                         reply: "Preliminary discussions and work have started for runner's club, the event will happen in January ",
                         children: "Revive Cyclists’ Clubs and follow up on Runners’ Club to promote fitness and community engagement"
-                    }), (0, Ne.jsx)(Wr, {
+                    }), (0, Ne.jsx)(Hr, {
                         reply: "Proposal had been sent, however the sport was rejected. Updated proposal sent subsequently.",
                         children: "Sport of the Month: Reintroduce non-conventional sports & games like Fencing, GO, and Curling through workshops, cultivating diverse athletic exploration"
                     })]
@@ -10252,7 +10252,7 @@
                     }), (0, Ne.jsx)(Hr, {
                         reply: "",
                         children: "Elevate IITB sports with a comprehensive handbook, addressing common queries through detailed facility information, vendor details and recommended equipments"
-                    }), (0, Ne.jsx)(Ur, {
+                    }), (0, Ne.jsx)(Wr, {
                         reply: "Work has not started for this initiative",
                         children: "Revive prediction contests for world-wide sporting events to engage enthusiasts"
                     }), (0, Ne.jsx)(Hr, {
