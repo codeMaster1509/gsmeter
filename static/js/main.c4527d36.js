@@ -10092,9 +10092,9 @@
                     manlink: "https://drive.google.com/file/d/1VLPLVrevA4rJe72XDw_ERrq8Mx1D5XAc/view?usp=drive_link",
                     imgsrc: "/Siddharth_Farkiya.jpg",
                     por: "General Secretary, Sports Affairs ",
-                    completed: 23.3,
-                    Ongoing: 40.0,
-                    notstarted: 36.7,
+                    completed: 46.7,
+                    Ongoing: 43.3,
+                    notstarted: 10,
                     unclear: 0
                 }), (0, Ne.jsx)(Br, {}), (0, Ne.jsx)(kr, {
                     children: "INITIATIVES "
