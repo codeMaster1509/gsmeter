@@ -10956,7 +10956,7 @@
                         reply: "The council will not be able to complete it. The Dean Student Affairs had denied permission to conduct it when they had reached out during the summer.",
                         children: 'Thrive: Facilitate professional opportunities for students in the form of Live Your Passion, awarded for completing ICSP projects and stand-out efforts'
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "The council has decided to conduct it only during the second semester.",
+                        reply: "",
                         children: "Keynote: Organize fortnightly talk sessions in both semesters featuring prominent, cultural personalities, fostering insightful discussions across various genres"
                     })]
                 }), (0, Ne.jsx)(Ar, {
@@ -10964,11 +10964,11 @@
                 }), (0, Ne.jsx)(Rr, {
                     children: "Cult-For-A-Cause"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsx)(Wr, {
-                        reply: "The council has drafted a proposal in collaboration with NSS as of 2nd October 2024.",
+                    children: [(0, Ne.jsx)(Hr, {
+                        reply: "",
                         children: 'Paathshala: Reinitiate collaboration with NSS IIT Bombay for outreach initiatives focused on providing cultural classes to underprivileged students across communities.'
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "A street play was organized in front of Domino's on 29 August 2024. No plays have been conducted outside of the institute yet. The council is planning to conduct them at Happy Streets on 6 October 2024.",
+                        reply: "A street play was organized in front of Domino's on 29 August 2024. No plays have been conducted outside of the institute yet.",
                         children: "Beyond the Gates: Organize Street plays and flash mobs at various iconic Mumbai locales, with a special emphasis on raising awareness for various social causes"
                     })]
 
@@ -10978,16 +10978,16 @@
                     children: "Cult Coming To You"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "The council has drafted a proposal for the SWC and it was submitted on 2nd October 2024. The events are planned for at least some hostels around 11-13 October 2024 on account of Mental Health Day on 11 October 2024.",
+                        reply: "The council had drafted a proposal for the SWC and it was submitted on 2nd October 2024. The events were planned for at least some hostels around 11-13 October 2024 on account of Mental Health Day on 11 October 2024, but they did not happen.",
                         children: "Mood Mural: Collaborate with the Student Wellness Centre to organize hostel wall painting events, fostering bonding, and creating more lively and beautiful living environments"
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "An open mic was conducted in H18 in August. The council is planning to cover other hostels later",
+                    }), (0, Ne.jsx)(Hr, {
+                        reply: "Open mics was conducted in H18 and H13.",
                         children: "Sarhad Paar: Arrange open mics across hostels to enhance artistic expression while improving inter-hostel bonding and giving performers a chance to practice."
                     }), (0, Ne.jsx)(Hr, {
                         reply: "",
                         children: "Awareness: Host a comprehensive GC briefing session for all cultural councillors to build awareness about the various available resources, leading to higher-quality entries."
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "Tea parties will happen at the end of the semester. The council has already discussed with the hostel councils of H12, H13 and H14.",
+                    }), (0, Ne.jsx)(Wr, {
+                        reply: "A jamming session happened during the H13 tea party in December.",
                         children: "Utilize tea parties organized in PG Hostels to host jamming sessions and photo booths in collaboration with the hostel councils."
                     })]
                 }), (0, Ne.jsx)(Ar, {
@@ -10999,7 +10999,7 @@
                         reply: "This event happened as part of 'Carve-a-thon' conducted as part of PG Cult Informals 1 on 31st August. ",
                         children: "Culinary Lens: Initiate collaboration between Photography and Culinary clubs to capture food art via photography, offering exposure to both photographers and food artists"
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "It hasn't started since flagships of most cultural genres will happen during the second semester.",
+                        reply: "",
                         children: "Behind the Curtains: Create club-wise mini-documentaries covering behind-the-scenes of flagships for long-term content aggregation and showcase in later events"
                     }), (0, Ne.jsx)(Hr, {
                         reply: "Professor RK Pant performed during PG Culturals orientation",
@@ -11016,7 +11016,7 @@
                     children: "Broadcasting Culturals"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Ur, {
-                        reply: "PAF and Freshiezza haven't happened yet.",
+                        reply: "In talks with t-shirt and printing vendors for PAF (yet to happen). Freshiezza didn't happen this year.",
                         children: "Boost spot merchandise sales with instant customization options and live stalls during major events like PAF & Freshiezza, aiming to enhance post-event publicity "
                     }), (0, Ne.jsx)(Wr, {
                         reply: "The participant database management system is ready to maintain records of participation of students in various club activities but data is yet to be uploaded on the website.",
@@ -11025,7 +11025,7 @@
                         reply: "",
                         children: "Release cultural calendar on the ICC website, and also include an iCal and VCS for convenience and to give timely reminders for all students."
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "The council is planning to do it for Freshiezza.",
+                        reply: "The council was planning to do it for Freshiezza, but the event didn't happen this year.",
                         children: "Revamp publicity with AR-enhanced posters, eco-conscious installations, and AR- activated photobooths to deliver immersive and interactive glimpses of events."
                     })]
                 }), (0, Ne.jsx)(Ar, {
@@ -11040,13 +11040,13 @@
                         reply: "The council is planning to procure this inventory using the funds from the Nandan Nilekani proposal. The proposal has been presented to the Dean but funds haven't been received yet.",
                         children: "Procure inventory like cameras and storage devices for ICC's publicity and marketing team to assist with content creation and expand an in-house content library."
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "The council has arranged a carpenter to build ramps. The council said it will be done by the second week of October.",
+                        reply: "The council had arranged a carpenter to build ramps and had said it will be done by the second week of October. It hasn't been completed yet.",
                         children: "Improve accessibility of SAC rooms for specially-abled persons via ramps."
                     }), (0, Ne.jsx)(Wr, {
                         reply: "The council is planning to echo-proof the theatre room using the funds from the Nandan Nilekani proposal. The proposal has been presented to the Dean but funds haven't been received yet. The soundproofing of the music room will be done using the ICC budget.",
                         children: "Push for soundproofing in the Music Room and echo-proofing in the Theatre Room."
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "The council is planning to conduct it in the week of 1 October-7 October 2024.",
+                        reply: "",
                         children: "Conduct workshops on delicate inventory handling for newly acquired items, promoting safe and efficient use while encouraging responsible handling practices."
                     })]
                 
@@ -11056,13 +11056,13 @@
                     children: "Continuing Culturals"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "",
                         children: "Freelance Cult: Set up a freelancing portal for all relevant cultural clubs to provide opportunities of value to students."
                     }), (0, Ne.jsx)(Wr, {
                         reply: "The council had submitted a proposal for NSO Fashion during May 2024. 4 months will be required for its implemetation and hence it wasn't included in the NSO activities  of the UG'24 batch.",
                         children: "Push for the inclusion of NSO Fashion Design, NSO Filmmaking, and NSO Debate."
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "Inter IIT is to be conducted in December.",
+                    }), (0, Ne.jsx)(Hr, {
+                        reply: "",
                         children: "Organize a team dinner before Inter-IIT for contingents to break the ice and raise morale."
                     }), (0, Ne.jsx)(Wr, {
                         reply: "Yoga room has been whitewashed and painted as of 2 October 2024.",
