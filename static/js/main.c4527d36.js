@@ -10123,8 +10123,8 @@
                         reply:"",
                         children: "Push for year-long training sessions ‘Novice Nook’ by coaches for beginners in all"
                     }), (0, Ne.jsx)(Wr, { 
-                        reply: "Workshop will be conducted in later half of October in association with Aavhan. iSURP projects haven't been completed.",
-                        children: ""
+                        reply: "",
+                        children: "Foster academic-sport integration by pushing for seminars and academic courses on Sports Analytics and iSURP projects in collaboration with UGAC"
                     }), (0, Ne.jsx)(Wr, {
                         reply: "Sport-o-mania was conducted in collaboration with Consult club. The speakathon has been cancelled.",
                         children: "Introduce Speakathon and Sport-o-Mania, sporting-based discussions and case competitions in sporting events igniting fresher perspectives for student engagement"
@@ -10445,34 +10445,34 @@
                     chartsrc: "/ACADug.png",
                     imgsrc: "/ArjunSimha.jpg",
                     por: "General Secretary Academic Affairs UG",
-                    completed: 27.6,
-                    notstarted: 44.8,
-                    Ongoing: 27.6,
+                    completed: 48.3,
+                    notstarted: 37.9,
+                    Ongoing: 13.8,
                     unclear: 0
                 }), (0, Ne.jsx)(Br, {}), (0, Ne.jsx)(Ar, {
                     children: "Key Initiatives"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "",
                         children: 'Initiate a comprehensive Career Building Program assisting students to identify which career domain they might be interested in and help them build a profile suitable to their interests.'
                     }), (0, Ne.jsx)(Ur, {
                         reply: "The council mentioned that the Dean had verbally agreed in principle to obtain the names of students who had applied for scholarships.",
                         children: "Push to extend even semester fee payment deadline for students who apply for institute scholarships to avoid offline registration, late registration fines, and missing out on in-demand elective courses."
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "The council reported that a proposal had been made and was awaiting signatures from the Deans FIA, AP, and SA.",
+                    }), (0, Ne.jsx)(Hr, {
+                        reply: "The council stated that the crash course sessions had been conducted for BB 101 and CS 101",
                         children: "Propose the introduction of student-run crash courses under a Course Buddy Program to tutor students and improve academic performance in specific course re-examinations."
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "",
                         children: "Push to introduce Interdisciplinary RnD Project Courses from Centres of Excellence like C-MINDS, similar to DH307 offered by KCDH."
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "",
                         children: "Pioneer the creation of the IIT Bombay Undergraduate Research Journal to provide a platform for innovative UG research to be published and promoted within industries."
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "INFORMATION DISSEMINATION AND AWARENESS "
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "Ongoing/completed to some extent",
+                        reply: "",
                         children: "Formalize and restructure a 'My Branch at IITB' video series in collaboration with the institute administration to help students make an informed decision before beginning JOSAA Counselling."
                     }), (0, Ne.jsx)(Ur, {
                         reply: "The council indicated that research funding is ongoing.",
@@ -10494,31 +10494,31 @@
                     }), (0, Ne.jsx)(Hr, {
                         reply: "The council confirmed that they were collaborating with the Department General Secretaries instead of the DAMP teams.",
                         children: "Reimplement a student-led feedback mechanism to identify and solve academic pain points within the new academic curriculum in collaboration with the D-AMP teams."
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: " The council stated that the proposal had been submitted.",
+                    }), (0, Ne.jsx)(Hr, {
+                        reply: "",
                         children: "Propose to increase the pre-final year retagging window to increase the time available to change course tags and avoid discrepancies prior to placements and IDDDP applications."
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "",
                         children: "Propose to allow IDC students to pre-register for allowed courses as electives run in slot 12-15."
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "The council stated that the proposal had been submitted.",
+                    }), (0, Ne.jsx)(Hr, {
+                        reply: "",
                         children: "Push to allow running of summer courses for courses that no longer exist in the new curriculum even if the number of enrolled students is less than 5."
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "Web and Infrastructure"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "",
                         children: "Propose to add a Rate My Professor section on ResoBin to help students provide and receive filtered feedback on professors based on a variety of parameters."
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "",
                         children: "Develop a portal to provide updates on the status of the applications and academic documents submitted for approval."
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "PROMOTION OF WORK EXPERIENCE AND RESEARCH"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "",
                         children: 'Implement Research Pathways – a program to help students refine their research interests by simplifying sub-fields of various disciplines and connecting them with experienced seniors in those areas.'
                     }), (0, Ne.jsx)(Hr, {
                         children: "Organize an institute-wide Industrial Hackathon to encourage student-led technical research, focusing on industrial relevance, with opportunities to showcase projects and win prizes."
@@ -10526,11 +10526,11 @@
                 }), (0, Ne.jsx)(Ar, {
                     children: "CAREER CELL"
                 }), (0, Ne.jsxs)(Or, {
-                    children: [(0, Ne.jsxs)(Ur, {
-                        reply: "Not started",
+                    children: [(0, Ne.jsxs)(Hr, {
+                        reply: "",
                         children: "Develop a preparation program for startup jobs designed for UG students interested in pursuing career opportunities in startups."
-                    }), (0, Ne.jsx)(Wr, {
-                        reply: "The council mentioned that a new booklet was being prepared for GRE, GMAT, MFin, and MBA programs.",
+                    }), (0, Ne.jsx)(Hr, {
+                        reply: "",
                         children: 'Revamp the GRAD Booklet to include information about M.Fin and MBA programs and provide a roadmap for GRE and GMAT preparation.'
                     }), (0, Ne.jsx)(Hr, {
                         children: 'Initiate "Career Pivot Series" – a series of sessions to help students navigate uncertainty in changing their career paths or domains catering to their professional aspirations.'
@@ -10539,10 +10539,10 @@
                     children: "STUDENT SUPPORT SERVICES"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "",
                         children: 'Launch "LHC Central" – a repository of academic help videos for various courses, created by students, aimed at improving conceptual clarity and addressing doubts.'
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "Ongoing/completed to some extent",
+                        reply: "",
                         children: "Build on existing efforts to curate and publish a comprehensive academic query booklet."
                     }), (0, Ne.jsxs)(Hr, {
                         children: "Broaden the scope of ExCel sessions to offer academic help in regional languages."
@@ -10552,11 +10552,11 @@
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Hr, {
                         children: "Introduce a Quant Trading Division under the Investment Team to enable members to gain practical experience and create resources to help students in pursuing quantitative finance."
-                    }), (0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                    }), (0, Ne.jsx)(Hr, {
+                        reply: "",
                         children: "Organize a Consulting Symposium to provide exposure to students in international policy making, impact, political, and ESG consulting under Consult Club."
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "",
                         children: "Curate an Analytics Career Guide informing students about various job profiles in analytics and include guided business analytics case demonstrations to aid in preparation."
                     }), (0, Ne.jsx)(Hr, {
                         children: "Release Industry Primers to showcase the popular trends, growth drivers, and recent news in diverse industries to help students stay up-to-date with current affairs and developments."
@@ -10565,7 +10565,7 @@
                     children: "Off-Manifesto Initiatives"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "Ongoing/completed to some extent",
+                        reply: "",
                         children: "Students with FR grades in Additional Learning Courses to be eligible for institute medals"
                     }), (0, Ne.jsx)(Hr, {
                         children: "Got HS3XX and ES250 to run as a summer course for the first time in 3 years"
@@ -10943,9 +10943,9 @@
                     manlink: "https://drive.google.com/file/d/1DKyBrpEwVDP9y8UzZM0x_BrCY13NsOH_/view?usp=drive_link",
                     imgsrc: "/ishaanGSCA.jpg",
                     por: "General Secretary Cultural Affairs ",
-                    completed: 20.0,
-                    notstarted: 36.0,
-                    Ongoing: 44.0,
+                    completed: 32.0,
+                    notstarted: 28.0,
+                    Ongoing: 40.0,
                     unclear: 0
                 }), (0, Ne.jsx)(Br, {}), (0, Ne.jsx)(Ar, {
                     children: "PROFESSIONAL OPPORTUNITIES | "
