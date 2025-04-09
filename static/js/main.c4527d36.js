@@ -10299,29 +10299,29 @@
                     children: "Inventory & Resources"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Hr, {
-                        reply:"The council informed insight that booking system is completed and the inventory is also compiled. However as the Gymkhana server is down from some days, we can't push the code to make it live. We are yet to receive any proofs for verification.",
+                        reply:"The booking system is completed from our end and the inventory is also compiled. The portal is now live.",
                         children: "Centralized Inventory : List all issuable inventory of various clubs on the ITC website with an integrated booking system to keep track of inventory borrowed."
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "The servers have been ordered from IoE funds, however they have not been delivered because of lack of proper space. Earlier, we decided to get the space in DESE building, but the HoD has changed and they are not allowing the space now.",
+                        reply: "The council informed Insight that the servers have been ordered using IoE funds, however they have not been delivered because of lack of proper space but we are yet to receive the relevant proofs for verification.",
                         children: "Push for setting up an accessible GPU cluster to boost the computational power available, thereby enabling and accelerating AI/ML and other simulation-based student projects."
                     }), (0, Ne.jsx)(Ur, {
-                        reply:"The council hasn't started the application process.",
+                        reply:"The council hasn't started the application process",
                         children: "Establish branches of IEEE Societies in domains such as robotics and automation, power and energy, and vehicular technology to foster international networking opportunities."
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"The data has been collected for all tech teams, and other resources are also in place. The design is still in process",
+                        reply:"The data has been collected for all tech teams, and other resources are also in place. The draft is ready and will be released by the end of this semester.",
                         children: "Tech101 Booklet: Create an infographic guide including tech team details, a roadmap to tech startups, job preparation resources, institute IP policy, and STP guidance"
                     }), (0, Ne.jsx)(Ur, {
-                        reply:"The council informed us that the list to order the books has been made and the book lending system is also ready, the gymkhana server is down so it can't be made live now. However, we are yet to receive any proofs for verification.",
+                        reply:"The council informed Insight that the list to order the books has been made and the book lending system is also ready. However, the gymkhana server is down so it can't be made live now but we are yet to receive the relevant proofs for verification.",
                         children: "Put together a book lending system in TL to enrich the hobby of technical reading "
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "Projects & Competitions"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply:"Council informd Insight that teams have been made for SiH, IQC; WnCC will soon hold a session about ICPC; No progress about Climate science olympiad. However, we are yet to receive any proofs for verification.",
+                        reply:"The council informed Insight that Teams have been made for SiH, IQC; No progress about Climate science olympiad. WnCC conducted a session for ICPC.",
                         children: " Encourage formation of teams consisting of club members and enthusiasts to participate in quizzing competitions, and hackathons such as the Climate Science Olympiad, ICPC, IQC"
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "",
                         children: "Push for a one-stop Institute Projects Portal consolidating project applications and documentation from various channels such as clubs, professors, institute alumni, and CoEs"
                     }), (0, Ne.jsx)(Hr, {
                         reply: "Established brownie points for ITSP projects involving social entrepreneurship. Have not been publicised as the brand 'Sahaay'",
@@ -10330,36 +10330,36 @@
                         reply:"Collected the IPs list from Dean R&D's office, still seeking permission from faculties to use those IPs",
                         children: "Collaborate with faculty to take existing IPs and bring in students to find a product-market fit"
                     }), (0, Ne.jsx)(Wr, {
-                        reply: "Council informed Insight that zero Waste has been established, and they are working with sustainability cell to effectively process the mess waste in biogas plant. However, we are yet to receive any proofs for verification.",
+                        reply: "The council informed Insight that Team Zero Waste has been established, and they are working with sustainability cell to effectively process the mess waste in biogas plant, they were also willing to share the work report of working with sustainability cell and pho but we are yet to receive the relevant proofs for verification.",
                         children: "Follow up on Team Zero Waste to work on projects towards attaining IGBC Net-Zero Campus status and further take support from Sustainability Cell to help implement in hostels"
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "TECH FOR INSTI																				"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Hr, {
-                        reply: "Preparations have been made, will be made public in the GC opening ceremony",
+                        reply: "It was made public at the opening ceremony of the Tech General Championship.",
                         children: "Prepare detailed guidelines for hostel tech rooms that include a tentative GC calendar, minimum inventory list, and a tentative budget to receive early funding approval "
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "Council informed Insight that the clubs have agreed to introduce these GCs, but details and PS are yet to be decided However, we are yet to receive any proofs for verification.",
+                        reply: "The council informed Insight that the clubs have agreed to introduce these GCs, but details and PS are yet to be decided but we are yet to receive the relevant proofs for verification.",
                         children: "Introduce new GCs in emerging domains like Quant, Game Development, Blockchain, Product Design to align with recent Inter IIT problem statements"
                     }), (0, Ne.jsx)(Ur, {
-                        reply:"Not started",
+                        reply:"",
                         children: " Push for cooperation with all institute bodies to provide data for a refined generative InstiGPT model to answer doubts and trivia in an easily navigable manner"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"InstiX trying to collaborate with CSO for the security system",
+                        reply:"The council informed Insight that InstiX is trying to collaborate with CSO for the security system. ",
                         children: 'Popularise the "Made by ITC" brand on projects taken up by bodies such as InstiX, Sandbox in collaboration with institute bodies like the Sports Council and the Hostel Affairs Council'
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "COMMUNITY BUILDING"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "Ongoing/completed to some extent",
+                        reply: "The council informed Insight that one event was conducted while the rest of the information would be included in the Tech 101 booklet",
                         children: "Take forward WISE with a booklet and social media series to spread awareness about job opportunities, scholarships, competitions from various organizations targeted towards women."
                     }), (0, Ne.jsx)(Ur, {
-                        reply:"Not started",
+                        reply:"No proofs submitted by the council to Insight",
                         children: " Conduct Science Fair alongside Tech R&D Expo with live experiments and interactive zones to give more recognition and reach to pure science clubs"
                     }), (0, Ne.jsx)(Ur, {
-                        reply:"Not started",
+                        reply:"",
                         children: "Introduce Tech Discussion Forum on InstiApp to promote open discussion on topics such as tech intern experiences, tech resource recommendations, & opinions on tech-related products "
                     })]
 
@@ -10376,17 +10376,17 @@
                         reply:"The council informed us Autodesk softwares will be provided to the teams. However, we are yet to receive any proofs for verification.",
                         children: "Collaborate with companies to provide free professional software access to tech teams"
                     }), (0, Ne.jsx)(Hr, {
-                        reply:"We are yet to receive any proofs for verification.",
+                        reply:"The list has been prepared by the council.",
                         children: "Put together an exhaustive list of IIT Bombay-registered vendors to reduce reimbursement bottlenecks "
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "PG TECH"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "The list of centres has been compiled but the visit to centres is left",
+                        reply: "The council informed Insight that the list of centres has been compiled but the visit to centres is left but we are yet to receive the relevant proofs for verification.",
                         children: "Conduct visits to Centres of Excellence and labs inside the institute as an extension to freshers' orientation to provide insights into advanced research and hands-on facilities"
                     }), (0, Ne.jsx)(Hr, {
-                        reply:"Not started",
+                        reply:"The council informed Insight that this was conducted during the PG Tech week. ",
                         children: "Ink and Think: Discussions on research papers and books to be conducted by pure science clubs to inculcate critical thinking and foster knowledge-sharing"
                     }), (0, Ne.jsx)(Hr, {
                         reply:"",
@@ -10396,30 +10396,30 @@
                     children: "INTER - IIT TECH MEET"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "The proof has not been submitted by the council",
                         children: "Conduct Scientific Storytelling and Product Pitch boot camp for Inter IIT contingent to refine presentation and pitching skills, thus enhancing performance in final presentations"
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "The proof has not been submitted by the council",
                         children: "Push for post-Inter IIT relationship building with companies providing PS to give further opportunities to participating members, such as internships and workshops "
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "ALUMNI OUTREACH"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Hr, {
-                        reply: "Compiled the list of alumni willing to collaborate with the tech teams",
+                        reply: "AI community has alumni as mentors but no information about any other tech teams and the alumni database",
                         children: "Establish an alumni database and enable a targeted approach for them to join in as technical advisors to relatively new and developing tech teams and tech communities "
                     }), (0, Ne.jsx)(Ur, {
-                        reply: "Not started",
+                        reply: "",
                         children: "ITC Newsletter: Send out a biannual newsletter to alumni about tech teams and technical achievements, TL projects and ITSP to enhance outreach and alumni engagement "
                     })]
                 }), (0, Ne.jsx)(Ar, {
                     children: "MANAGERIAL REFORMS"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply:"Ongoing/completed to some extent",
+                        reply:"The council informed Insight that they have prepared a draft.",
                         children: "ITC Charter: Define the objectives and functions of each entity under ITC, ensuring clarity, and coherence within the team to avoid domain clashes and foster a holistic vision"
                     }), (0, Ne.jsx)(Hr, {
-                        reply: "",
+                        reply: "The council informed Insight that they have procured an advance budget.",
                         children: "Procure an advance budget from the institute based on documentation of expected team-wise expenses in ITSP after the first review meet to minimize reimbursement delays "
                     })]
                 }), (0, Ne.jsx)($r, {
