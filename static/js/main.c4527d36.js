@@ -10939,9 +10939,9 @@
                     lastUpdated: "10/04/2025",
                     children: "Gsca Meter"
                 }), (0, Ne.jsx)(Gr, {
-                    name: "Ishaan Abhyankar",
+                    name: "",
                     manlink: "https://drive.google.com/file/d/1DKyBrpEwVDP9y8UzZM0x_BrCY13NsOH_/view?usp=drive_link",
-                    imgsrc: "/ishaanGSCA.jpg",
+                    imgsrc: "/",
                     por: "General Secretary Cultural Affairs ",
                     completed: 32.0,
                     notstarted: 28.0,
