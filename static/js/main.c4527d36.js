@@ -10440,10 +10440,10 @@
                     lastUpdated: "10/04/2025",
                     children: "Gsaa Meter"
                 }), (0, Ne.jsx)(Gr, {
-                    name: "Arjun Saikumar Simha",
+                    name: "",
                     manlink: "https://drive.google.com/file/d/10zn7jYd4WPkdT0XKOEG_sUXZYUs4VHBu/view?usp=drive_link",
                     chartsrc: "/ACADug.png",
-                    imgsrc: "/ArjunSimha.jpg",
+                    imgsrc: "/",
                     por: "General Secretary Academic Affairs UG",
                     completed: 48.3,
                     notstarted: 37.9,
