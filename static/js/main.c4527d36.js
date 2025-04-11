@@ -10438,13 +10438,13 @@
                 className: "container--main",
                 children: [(0, Ne.jsx)(kr, {
                     lastUpdated: "10/04/2025",
-                    children: "Gsaa Meter"
+                    children: "UGAC End Term GS meter"
                 }), (0, Ne.jsx)(Gr, {
-                    name: "",
+                    name: "Undergraduate Academic Council",
                     manlink: "https://drive.google.com/file/d/10zn7jYd4WPkdT0XKOEG_sUXZYUs4VHBu/view?usp=drive_link",
                     chartsrc: "/ACADug.png",
                     imgsrc: "/",
-                    por: "Acads UG End Term GS Meter",
+                    por: "",
                     completed: 48.3,
                     notstarted: 37.9,
                     Ongoing: 13.8,
