@@ -9801,7 +9801,7 @@
                         children: "The pie chart at the top of each page displays the overall progress each General Secretary has made with regard to their manifesto"
                     })]
                 }), (0, Ne.jsx)(Lr, {
-                    children: "Note: This, as of October 2024, is the mid-tenure GS Meter and some initiatives by the GSecs might have been planned for later. A point marked as incomplete or ongoing/completed to some extent could be marked complete later in the tenure. Feel free to reach out to us via our social media handles or webmail for any clarifications."
+                    children: "Feel free to reach out to us via our social media handles or webmail for any clarifications."
                 }), (0, Ne.jsx)("br", {}), (0, Ne.jsx)(Ie, {})]
             })
         };
@@ -10370,7 +10370,7 @@
                         reply:"Meetings with alumni contacted through Dean ACR has been done, and they agreed to fund the tech teams for funding travel",
                         children: "Follow up with Dean R&D, ACR to seek opportunities for CSR support for tech teams"
                     }), (0, Ne.jsx)(Hr, {
-                        reply:"Orientation will be held in November",
+                        reply:"Orientation was held in November",
                         children: "Organise STPC Orientation to increase awareness about the program and thereby enable more number of teams focusing on competition participation"
                     }), (0, Ne.jsx)(Wr, {
                         reply:"The council informed us Autodesk softwares will be provided to the teams. However, we are yet to receive any proofs for verification.",
@@ -10444,7 +10444,7 @@
                     manlink: "https://drive.google.com/file/d/10zn7jYd4WPkdT0XKOEG_sUXZYUs4VHBu/view?usp=drive_link",
                     chartsrc: "/ACADug.png",
                     imgsrc: "/",
-                    por: "General Secretary Academic Affairs UG",
+                    por: "Acads UG End Term GS Meter",
                     completed: 48.3,
                     notstarted: 37.9,
                     Ongoing: 13.8,
@@ -10798,7 +10798,7 @@
                     children: "Eateries and Mess"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply:"Can't se started until the construction of the new wing is completed. Institute is focusing on doing other things now so this is not being pursued right now.",
+                        reply:"Can't get started until the construction of the new wing is completed. Institute is focusing on doing other things now so this is not being pursued right now.",
                         children: "Push for the establishment of a New Mess facility between Hostel 13 & 14"
                     }), (0, Ne.jsx)(Hr, {
                         reply:"Vending machines have been installed and are operational in several hostels and departments.",
@@ -10810,7 +10810,7 @@
                         reply:"On ground work has started, leveling of ground is being done right now.",
                         children: "Set up a new store selling day-to-day Dairy Products to promote healthy snacking"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"Gymkhana portal being down hindering work",
+                        reply:"Gymkhana ortal being down is hindering work",
                         children: "Follow up on the implementation of a centralized Institute Eateries Portal to integrate & streamline ordering from various canteens across the institute"
                     }), (0, Ne.jsx)(Wr, {
                         reply:"The council is in talks with potential vendors ",
@@ -10820,10 +10820,10 @@
                     children: "TRANSPORTATION"
                 }), (0, Ne.jsxs)(Or, {
                     children: [(0, Ne.jsx)(Wr, {
-                        reply: "In conversation with the vendor, who has agreed to supply more EVs however, they are waiting for the multilevel parking to be completed.",
+                        reply: "In conversation with the vendor, who has agreed to supply more EVs. However, they are waiting for the multilevel parking to be completed.",
                         children: "Ensure the introduction of E-Scooters & more E-Shuttles while expanding overall operational time to enable 24x7 transportation service in the institute"
                     }), (0, Ne.jsx)(Ur, {
-                        reply:"The talks have been initiated with the startup but they would need to do some research",
+                        reply:"The talks have been initiated with the startup that supplies the technology, but they need time for it to be implementable.",
                         children: "Introduce the concept of Battery Replacement with spare charged batteries to increase overall on-road availability of E-Shuttles in addition of new routes"
                     }), (0, Ne.jsx)(Hr, {
                         reply:"Installation of signage boards has been done, and convex mirrors have also been installed.",
@@ -10878,7 +10878,7 @@
                         reply:"Ongoing",
                         children: "Push for the integration of various hostel affairs related portals with MyIITB for centralized access"
                     }), (0, Ne.jsx)(Wr, {
-                        reply:"Ongoing",
+                        reply:"New digital workflows haven't been established yet",
                         children: "Promote the adoption of the AMS & establish new digital workflows to streamline standard procedures & permission processes in major institute offices"
                     }), (0, Ne.jsx)(Wr, {
                         reply:"The tender is being worked on. The space has been constructed.",
@@ -10938,7 +10938,7 @@
                         reply:"It is ongoing under the Umbrella Project",
                         children: "Develop aesthetic seating areas for general discussions, enhancing campus interaction and visual appeal."
                     }),(0, Ne.jsx)(Hr, {
-                        children: "Organising open house meetings in Hostels"
+                        children: "Organising open house meetings in Hostels 12, 13, 14, 5, 9, 3, tansa, 10, 2 ."
                     })]
                 }), (0, Ne.jsx)($r, {
                     toShow: 0
@@ -10956,12 +10956,12 @@
                 className: "container--main",
                 children: [(0, Ne.jsx)(kr, {
                     lastUpdated: "10/04/2025",
-                    children: "Gsca Meter"
+                    children: "ICC End Term GS Meter"
                 }), (0, Ne.jsx)(Gr, {
                     name: "",
                     manlink: "https://drive.google.com/file/d/1DKyBrpEwVDP9y8UzZM0x_BrCY13NsOH_/view?usp=drive_link",
                     imgsrc: "/",
-                    por: "General Secretary Cultural Affairs ",
+                    por: "Institute Cultural Council",
                     completed: 32.0,
                     notstarted: 28.0,
                     Ongoing: 40.0,
